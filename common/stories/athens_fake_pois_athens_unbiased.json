@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Rafina Port",
+        "lon": 24.0083,
+        "lat": 38.0194
+    },
+    {
+        "name": "Rafina (town center)",
+        "lon": 24.0067,
+        "lat": 38.0189
+    },
+    {
+        "name": "Loutsa (Artemida) (town center)",
+        "lon": 24.0,
+        "lat": 37.965
+    },
+    {
+        "name": "Marikes Beach",
+        "lon": 24.015,
+        "lat": 38.01
+    },
+    {
+        "name": "Kokkino Limanaki Beach",
+        "lon": 24.015,
+        "lat": 38.025
+    },
+    {
+        "name": "Agios Nikolaos Beach",
+        "lon": 24.0095,
+        "lat": 38.019
+    },
+    {
+        "name": "Loutsa Beach (Artemida Beach)",
+        "lon": 24.005,
+        "lat": 37.965
+    },
+    {
+        "name": "Leoforos Marathonos",
+        "lon": 23.99,
+        "lat": 37.968
+    },
+    {
+        "name": "Ethniki Odos Rafinas",
+        "lon": 24.005,
+        "lat": 38.015
+    },
+    {
+        "name": "Leoforos Artemidos",
+        "lon": 24.0,
+        "lat": 37.965
+    },
+    {
+        "name": "Dimokratias Avenue (Rafina)",
+        "lon": 24.005,
+        "lat": 38.018
+    },
+    {
+        "name": "Akti Ioannou Metaxa (Rafina Port waterfront)",
+        "lon": 24.009,
+        "lat": 38.019
+    },
+    {
+        "name": "Evangelistrias Street (Rafina)",
+        "lon": 24.006,
+        "lat": 38.0175
+    },
+    {
+        "name": "Vravronos Avenue",
+        "lon": 24.01,
+        "lat": 37.92
+    },
+    {
+        "name": "Archaeological Site of Vravrona",
+        "lon": 24.01,
+        "lat": 37.92
+    }
+]

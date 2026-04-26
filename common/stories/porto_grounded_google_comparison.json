@@ -1,0 +1,130 @@
+[
+    {
+        "name": "McDonald's",
+        "llm_lon": -8.605417,
+        "llm_lat": 41.184545,
+        "api_lon": -8.629105299999999,
+        "api_lat": 41.1579438,
+        "diff_distance_meters": 3560.8
+    },
+    {
+        "name": "Domino's Pizza Amial",
+        "llm_lon": -8.6123947,
+        "llm_lat": 41.1836755,
+        "api_lon": -8.6123947,
+        "api_lat": 41.1836755,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Restaurante Santo António",
+        "llm_lon": -8.6131476,
+        "llm_lat": 41.1861533,
+        "api_lon": -8.2820848,
+        "api_lat": 41.2758615,
+        "diff_distance_meters": 29490.4
+    },
+    {
+        "name": "Pizza Hut",
+        "llm_lon": -8.6112444,
+        "llm_lat": 41.190537,
+        "api_lon": -8.629105299999999,
+        "api_lat": 41.1579438,
+        "diff_distance_meters": 3917.7
+    },
+    {
+        "name": "Restaurante Favorita",
+        "llm_lon": -8.610909699999999,
+        "llm_lat": 41.1952355,
+        "api_lon": -8.610909699999999,
+        "api_lat": 41.1952355,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Milénio",
+        "llm_lon": -8.6142628,
+        "llm_lat": 41.2038793,
+        "api_lon": -8.6477338,
+        "api_lat": 41.15506449999999,
+        "diff_distance_meters": 6105.5
+    },
+    {
+        "name": "Recanto do Sabor",
+        "llm_lon": -8.6138309,
+        "llm_lat": 41.2079592,
+        "api_lon": -8.6138309,
+        "api_lat": 41.2079592,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "O'Santana",
+        "llm_lon": -8.6132158,
+        "llm_lat": 41.2118944,
+        "api_lon": -8.613215799999999,
+        "api_lat": 41.2118944,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Tentação das Bifanas 2",
+        "llm_lon": -8.615136999999999,
+        "llm_lat": 41.2256684,
+        "api_lon": -8.615136999999999,
+        "api_lat": 41.2256684,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Restaurante Dona Lurdes",
+        "llm_lon": -8.619925000000002,
+        "llm_lat": 41.22887799999999,
+        "api_lon": -8.619925,
+        "api_lat": 41.22887799999999,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Kaizen",
+        "llm_lon": -8.619108299999999,
+        "llm_lat": 41.2296671,
+        "api_lon": -8.6177522,
+        "api_lat": 41.1549474,
+        "diff_distance_meters": 8299.0
+    },
+    {
+        "name": "PedroFilipeMoura, Unipessoal Lda",
+        "llm_lon": -8.6213468,
+        "llm_lat": 41.2333738,
+        "api_lon": -8.6213468,
+        "api_lat": 41.2333738,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "BAGGA Leça do Balio",
+        "llm_lon": -8.621601,
+        "llm_lat": 41.20036339999999,
+        "api_lon": -8.621601,
+        "api_lat": 41.2003634,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Mundo Dellabi",
+        "llm_lon": -8.6185796,
+        "llm_lat": 41.1945428,
+        "api_lon": -8.6185796,
+        "api_lat": 41.1945428,
+        "diff_distance_meters": 0.0
+    },
+    {
+        "name": "Alameda",
+        "llm_lon": -8.6069671,
+        "llm_lat": 41.19796089999999,
+        "api_lon": -8.5836217,
+        "api_lat": 41.1647741,
+        "diff_distance_meters": 4173.8
+    },
+    {
+        "name": "Petiscos do Gusto",
+        "llm_lon": -8.6092583,
+        "llm_lat": 41.193186,
+        "api_lon": -8.6092583,
+        "api_lat": 41.193186,
+        "diff_distance_meters": 0.0
+    }
+]

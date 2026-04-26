@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Athens International Airport (Eleftherios Venizelos - ATH)",
+        "lon": 23.9473,
+        "lat": 37.9364
+    },
+    {
+        "name": "Acropolis",
+        "lon": 23.7258,
+        "lat": 37.9715
+    },
+    {
+        "name": "Parthenon",
+        "lon": 23.7263,
+        "lat": 37.9715
+    },
+    {
+        "name": "Acropolis Museum",
+        "lon": 23.7285,
+        "lat": 37.9693
+    },
+    {
+        "name": "Plaka",
+        "lon": 23.728,
+        "lat": 37.974
+    },
+    {
+        "name": "Monastiraki Square",
+        "lon": 23.726,
+        "lat": 37.976
+    },
+    {
+        "name": "Ancient Agora",
+        "lon": 23.7225,
+        "lat": 37.9755
+    },
+    {
+        "name": "Temple of Olympian Zeus",
+        "lon": 23.733,
+        "lat": 37.969
+    },
+    {
+        "name": "Hadrian's Arch",
+        "lon": 23.733,
+        "lat": 37.9695
+    },
+    {
+        "name": "Syntagma Square",
+        "lon": 23.734,
+        "lat": 37.975
+    },
+    {
+        "name": "National Garden",
+        "lon": 23.736,
+        "lat": 37.973
+    },
+    {
+        "name": "Panathenaic Stadium",
+        "lon": 23.74,
+        "lat": 37.968
+    },
+    {
+        "name": "Lycabettus Hill",
+        "lon": 23.744,
+        "lat": 37.98
+    },
+    {
+        "name": "National Archaeological Museum",
+        "lon": 23.732,
+        "lat": 37.989
+    },
+    {
+        "name": "Anafiotika",
+        "lon": 23.728,
+        "lat": 37.972
+    },
+    {
+        "name": "Psyrri",
+        "lon": 23.72,
+        "lat": 37.978
+    }
+]

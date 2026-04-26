@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Francisco Sá Carneiro Airport (OPO)",
+        "lon": -8.6813,
+        "lat": 41.2483
+    },
+    {
+        "name": "Avenida da Boavista",
+        "lon": -8.648,
+        "lat": 41.159
+    },
+    {
+        "name": "Aliados Avenue",
+        "lon": -8.6108,
+        "lat": 41.1478
+    },
+    {
+        "name": "Clérigos Tower",
+        "lon": -8.6142,
+        "lat": 41.1456
+    },
+    {
+        "name": "Livraria Lello",
+        "lon": -8.6138,
+        "lat": 41.1459
+    },
+    {
+        "name": "São Bento Railway Station",
+        "lon": -8.61099,
+        "lat": 41.14557
+    },
+    {
+        "name": "Porto Cathedral",
+        "lon": -8.6109,
+        "lat": 41.1435
+    },
+    {
+        "name": "Ribeira District",
+        "lon": -8.6139,
+        "lat": 41.1408
+    },
+    {
+        "name": "Dom Luís I Bridge",
+        "lon": -8.6119,
+        "lat": 41.1406
+    },
+    {
+        "name": "Port Wine Cellars",
+        "lon": -8.615,
+        "lat": 41.137
+    },
+    {
+        "name": "Mercado do Bolhão",
+        "lon": -8.6087,
+        "lat": 41.1488
+    },
+    {
+        "name": "Majestic Café",
+        "lon": -8.6078,
+        "lat": 41.1466
+    },
+    {
+        "name": "Palácio da Bolsa",
+        "lon": -8.6144,
+        "lat": 41.142
+    },
+    {
+        "name": "Casa da Música",
+        "lon": -8.6295,
+        "lat": 41.1587
+    },
+    {
+        "name": "Rua de Santa Catarina",
+        "lon": -8.6075,
+        "lat": 41.1475
+    },
+    {
+        "name": "Foz do Douro",
+        "lon": -8.679,
+        "lat": 41.147
+    }
+]

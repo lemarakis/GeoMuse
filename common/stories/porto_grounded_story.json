@@ -1,0 +1,86 @@
+{
+    "title": "A Porto Culinary Expedition",
+    "story": "The late afternoon sun cast long shadows as I settled into the back of the taxi, my phone buzzing with notes for my Porto food blog. 'A culinary adventure today, driver,' I announced, 'starting with a survey of the local scene.' We began our journey, and almost immediately, I spotted a familiar golden arch – a McDonald's. 'Ah, the global standard,' I mused, making a mental note to contrast it with the local fare. A few minutes later, the vibrant red of a Domino's Pizza Amial flashed by, another international contender.\n\nMy focus quickly shifted as we approached Restaurante Santo António, a charming spot that promised authentic Portuguese flavors. I jotted down its name, already imagining the bacalhau. But the city's diverse offerings continued to unfold; soon after, we passed a Pizza Hut, reminding me of the sheer variety available. The driver navigated the bustling streets, and my eyes caught the inviting facade of Restaurante Favorita, a place I'd heard whispers about for its traditional dishes.\n\nAs we continued north, the landscape shifted slightly, and the modern elegance of Milénio came into view, suggesting a more contemporary dining experience. The journey was a feast for the eyes, and my appetite grew with each passing eatery. Next, the taxi slowed near Recanto do Sabor, a name that literally translates to 'corner of flavor,' piquing my interest immensely. Just a little further, the classic sign of O'Santana beckoned, a testament to Porto's enduring culinary heritage.\n\nOur route took us deeper into the city's northern reaches, and a craving for something specific hit me. 'Driver, have you ever tried the bifanas here?' I asked, just as we passed Tentação das Bifanas 2, a place renowned for its succulent pork sandwiches. It was tempting, but my list was long. We then cruised past the homey entrance of Restaurante Dona Lurdes, a place that felt like a grandmother's kitchen. The culinary journey then took an unexpected turn with Kaizen, a sleek spot hinting at Japanese cuisine, a delightful contrast to the traditional. Our northernmost point brought us past PedroFilipeMoura, Unipessoal Lda, a more upscale establishment that promised refined dining.\n\nNow, the taxi began its loop back, heading southwest. My thoughts turned to something sweet. 'Perhaps a pastry?' I wondered aloud, and as if on cue, we passed BAGGA Leça do Balio, a bakery that looked perfect for a mid-afternoon treat. Not long after, another delightful bakery, Mundo Dellabi, appeared, offering even more tempting options. The city's rhythm was captivating. We then drove by Alameda, a restaurant with an inviting outdoor seating area, perfect for people-watching. Finally, as my journey neared its end, the taxi pulled past Petiscos do Gusto, a tapas-style restaurant that seemed like the ideal spot to unwind and savor small bites, reflecting on the day's delicious discoveries.",
+    "pois": [
+        {
+            "name": "McDonald's",
+            "lon": -8.605417,
+            "lat": 41.184545
+        },
+        {
+            "name": "Domino's Pizza Amial",
+            "lon": -8.6123947,
+            "lat": 41.1836755
+        },
+        {
+            "name": "Restaurante Santo António",
+            "lon": -8.6131476,
+            "lat": 41.1861533
+        },
+        {
+            "name": "Pizza Hut",
+            "lon": -8.6112444,
+            "lat": 41.190537
+        },
+        {
+            "name": "Restaurante Favorita",
+            "lon": -8.610909699999999,
+            "lat": 41.1952355
+        },
+        {
+            "name": "Milénio",
+            "lon": -8.6142628,
+            "lat": 41.2038793
+        },
+        {
+            "name": "Recanto do Sabor",
+            "lon": -8.6138309,
+            "lat": 41.2079592
+        },
+        {
+            "name": "O'Santana",
+            "lon": -8.6132158,
+            "lat": 41.2118944
+        },
+        {
+            "name": "Tentação das Bifanas 2",
+            "lon": -8.615136999999999,
+            "lat": 41.2256684
+        },
+        {
+            "name": "Restaurante Dona Lurdes",
+            "lon": -8.619925000000002,
+            "lat": 41.22887799999999
+        },
+        {
+            "name": "Kaizen",
+            "lon": -8.619108299999999,
+            "lat": 41.2296671
+        },
+        {
+            "name": "PedroFilipeMoura, Unipessoal Lda",
+            "lon": -8.6213468,
+            "lat": 41.2333738
+        },
+        {
+            "name": "BAGGA Leça do Balio",
+            "lon": -8.621601,
+            "lat": 41.20036339999999
+        },
+        {
+            "name": "Mundo Dellabi",
+            "lon": -8.6185796,
+            "lat": 41.1945428
+        },
+        {
+            "name": "Alameda",
+            "lon": -8.6069671,
+            "lat": 41.19796089999999
+        },
+        {
+            "name": "Petiscos do Gusto",
+            "lon": -8.6092583,
+            "lat": 41.193186
+        }
+    ]
+}

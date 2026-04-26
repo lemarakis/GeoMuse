@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Ribeira",
+        "llm_lon": -8.6138,
+        "llm_lat": 41.1408,
+        "api_lon": -8.610313500000002,
+        "api_lat": 41.1432682,
+        "diff_distance_meters": 401.0
+    },
+    {
+        "name": "Rua de São João",
+        "llm_lon": -8.6115,
+        "llm_lat": 41.1415,
+        "api_lon": -8.6137253,
+        "api_lat": 41.1419135,
+        "diff_distance_meters": 192.4
+    },
+    {
+        "name": "Cedofeita",
+        "llm_lon": -8.621,
+        "llm_lat": 41.154,
+        "api_lon": -8.6105703,
+        "api_lat": 41.1542293,
+        "diff_distance_meters": 875.8
+    },
+    {
+        "name": "Avenida da Boavista",
+        "llm_lon": -8.64,
+        "llm_lat": 41.159,
+        "api_lon": -8.6559228,
+        "api_lat": 41.1624702,
+        "diff_distance_meters": 1390.9
+    },
+    {
+        "name": "Casa da Música",
+        "llm_lon": -8.6298,
+        "llm_lat": 41.1587,
+        "api_lon": -8.630737,
+        "api_lat": 41.1588467,
+        "diff_distance_meters": 80.3
+    },
+    {
+        "name": "Circunvalação",
+        "llm_lon": -8.59,
+        "llm_lat": 41.18,
+        "api_lon": -8.5666079,
+        "api_lat": 41.1754563,
+        "diff_distance_meters": 2026.6
+    },
+    {
+        "name": "Hospital de São João",
+        "llm_lon": -8.595,
+        "llm_lat": 41.184,
+        "api_lon": -8.6008841,
+        "api_lat": 41.1816284,
+        "diff_distance_meters": 559.6
+    },
+    {
+        "name": "Rua de Campo Alegre",
+        "llm_lon": -8.638,
+        "llm_lat": 41.152,
+        "api_lon": -8.6459962,
+        "api_lat": 41.1538619,
+        "diff_distance_meters": 702.3
+    },
+    {
+        "name": "Jardins do Palácio de Cristal",
+        "llm_lon": -8.624,
+        "llm_lat": 41.147,
+        "api_lon": -8.6255165,
+        "api_lat": 41.1482682,
+        "diff_distance_meters": 189.9
+    },
+    {
+        "name": "Majestic Café",
+        "llm_lon": -8.607,
+        "llm_lat": 41.147,
+        "api_lon": -8.6066041,
+        "api_lat": 41.1471799,
+        "diff_distance_meters": 38.8
+    },
+    {
+        "name": "Rua de Santa Catarina",
+        "llm_lon": -8.6075,
+        "llm_lat": 41.1475,
+        "api_lon": -8.6047487,
+        "api_lat": 41.1534763,
+        "diff_distance_meters": 702.7
+    }
+]

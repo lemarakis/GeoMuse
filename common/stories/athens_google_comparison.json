@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Rafina Port",
+        "llm_lon": 24.0083,
+        "llm_lat": 38.0194,
+        "api_lon": 24.0071775,
+        "api_lat": 38.0202437,
+        "diff_distance_meters": 136.0
+    },
+    {
+        "name": "Rafina (town center)",
+        "llm_lon": 24.0067,
+        "llm_lat": 38.0189,
+        "api_lon": 24.0059241,
+        "api_lat": 38.0234457,
+        "diff_distance_meters": 509.1
+    },
+    {
+        "name": "Loutsa (Artemida) (town center)",
+        "llm_lon": 24.0,
+        "llm_lat": 37.965,
+        "api_lon": 24.0076837,
+        "api_lat": 37.9704015,
+        "diff_distance_meters": 902.9
+    },
+    {
+        "name": "Marikes Beach",
+        "llm_lon": 24.015,
+        "llm_lat": 38.01,
+        "api_lon": 24.0200261,
+        "api_lat": 38.0101684,
+        "diff_distance_meters": 441.8
+    },
+    {
+        "name": "Kokkino Limanaki Beach",
+        "llm_lon": 24.015,
+        "llm_lat": 38.025,
+        "api_lon": 24.0001904,
+        "api_lat": 38.0333235,
+        "diff_distance_meters": 1595.1
+    },
+    {
+        "name": "Agios Nikolaos Beach",
+        "llm_lon": 24.0095,
+        "llm_lat": 38.019,
+        "api_lon": 23.3524733,
+        "api_lat": 37.6364569,
+        "diff_distance_meters": 71753.7
+    },
+    {
+        "name": "Loutsa Beach (Artemida Beach)",
+        "llm_lon": 24.005,
+        "llm_lat": 37.965,
+        "api_lon": 24.0076837,
+        "api_lat": 37.9704015,
+        "diff_distance_meters": 644.3
+    },
+    {
+        "name": "Leoforos Marathonos",
+        "llm_lon": 23.99,
+        "llm_lat": 37.968,
+        "api_lon": 23.9696777,
+        "api_lat": 38.1230468,
+        "diff_distance_meters": 17302.0
+    },
+    {
+        "name": "Ethniki Odos Rafinas",
+        "llm_lon": 24.005,
+        "llm_lat": 38.015,
+        "api_lon": 24.0154391,
+        "api_lat": 38.0167818,
+        "diff_distance_meters": 937.8
+    },
+    {
+        "name": "Leoforos Artemidos",
+        "llm_lon": 24.0,
+        "llm_lat": 37.965,
+        "api_lon": 24.0109751,
+        "api_lat": 37.9836394,
+        "diff_distance_meters": 2282.6
+    },
+    {
+        "name": "Dimokratias Avenue (Rafina)",
+        "llm_lon": 24.005,
+        "llm_lat": 38.018,
+        "api_lon": 23.9992866,
+        "api_lat": 38.0289266,
+        "diff_distance_meters": 1312.5
+    },
+    {
+        "name": "Akti Ioannou Metaxa (Rafina Port waterfront)",
+        "llm_lon": 24.009,
+        "llm_lat": 38.019,
+        "api_lon": 24.0071775,
+        "api_lat": 38.0202437,
+        "diff_distance_meters": 211.3
+    },
+    {
+        "name": "Evangelistrias Street (Rafina)",
+        "llm_lon": 24.006,
+        "llm_lat": 38.0175,
+        "api_lon": 24.0059241,
+        "api_lat": 38.0234457,
+        "diff_distance_meters": 660.0
+    },
+    {
+        "name": "Vravronos Avenue",
+        "llm_lon": 24.01,
+        "llm_lat": 37.92,
+        "api_lon": 24.015622,
+        "api_lat": 37.911943,
+        "diff_distance_meters": 1021.8
+    },
+    {
+        "name": "Archaeological Site of Vravrona",
+        "llm_lon": 24.01,
+        "llm_lat": 37.92,
+        "api_lon": 23.9945177,
+        "api_lat": 37.9258351,
+        "diff_distance_meters": 1507.5
+    }
+]

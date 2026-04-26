@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Maia",
+        "llm_lon": -8.6167,
+        "llm_lat": 41.2333,
+        "api_lon": -8.622938699999999,
+        "api_lat": 41.2326543,
+        "diff_distance_meters": 527.9
+    },
+    {
+        "name": "Valongo",
+        "llm_lon": -8.4833,
+        "llm_lat": 41.1833,
+        "api_lon": -8.5012261,
+        "api_lat": 41.1934558,
+        "diff_distance_meters": 1879.9
+    },
+    {
+        "name": "Águas Santas",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.5753202,
+        "api_lat": 41.2098544,
+        "diff_distance_meters": 2389.1
+    },
+    {
+        "name": "Maia Shopping",
+        "llm_lon": -8.5667,
+        "llm_lat": 41.2167,
+        "api_lon": -8.5615272,
+        "api_lat": 41.2198153,
+        "diff_distance_meters": 554.9
+    },
+    {
+        "name": "Fórum Maia",
+        "llm_lon": -8.6167,
+        "llm_lat": 41.2333,
+        "api_lon": -8.622900699999999,
+        "api_lat": 41.233823,
+        "diff_distance_meters": 523.1
+    },
+    {
+        "name": "Centro Comercial Parque da Maia",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.626897,
+        "api_lat": 41.229019,
+        "diff_distance_meters": 7209.2
+    },
+    {
+        "name": "Leroy Merlin Maia",
+        "llm_lon": -8.5667,
+        "llm_lat": 41.2167,
+        "api_lon": -8.625869,
+        "api_lat": 41.242773,
+        "diff_distance_meters": 5744.1
+    },
+    {
+        "name": "Decathlon Maia",
+        "llm_lon": -8.5667,
+        "llm_lat": 41.2167,
+        "api_lon": -8.6181035,
+        "api_lat": 41.2545891,
+        "diff_distance_meters": 6023.1
+    },
+    {
+        "name": "Parque Industrial da Maia",
+        "llm_lon": -8.6,
+        "llm_lat": 41.25,
+        "api_lon": -8.6196863,
+        "api_lat": 41.2360069,
+        "diff_distance_meters": 2266.8
+    },
+    {
+        "name": "Tecmaia - Parque Tecnológico da Maia",
+        "llm_lon": -8.6,
+        "llm_lat": 41.25,
+        "api_lon": -8.6414624,
+        "api_lat": 41.2583457,
+        "diff_distance_meters": 3596.5
+    },
+    {
+        "name": "ISMAI - Instituto Universitário da Maia",
+        "llm_lon": -8.6167,
+        "llm_lat": 41.2833,
+        "api_lon": -8.617116000000001,
+        "api_lat": 41.2678164,
+        "diff_distance_meters": 1720.0
+    },
+    {
+        "name": "Junta de Freguesia de Águas Santas",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.569674599999999,
+        "api_lat": 41.2061222,
+        "diff_distance_meters": 1784.8
+    },
+    {
+        "name": "A41 (Circular Regional Exterior do Porto)",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.4568557,
+        "api_lat": 41.0988595,
+        "diff_distance_meters": 13685.8
+    },
+    {
+        "name": "N105 (Estrada Nacional 105)",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.4692137,
+        "api_lat": 41.3153667,
+        "diff_distance_meters": 14491.3
+    },
+    {
+        "name": "Escola Secundária de Águas Santas",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.5737277,
+        "api_lat": 41.2047064,
+        "diff_distance_meters": 2057.7
+    },
+    {
+        "name": "Rua Central de Águas Santas",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.5041539,
+        "api_lat": 41.205691,
+        "diff_distance_meters": 3897.0
+    },
+    {
+        "name": "Rua Doutor Carlos Pires",
+        "llm_lon": -8.55,
+        "llm_lat": 41.2,
+        "api_lon": -8.6225389,
+        "api_lat": 41.2306597,
+        "diff_distance_meters": 6971.3
+    }
+]

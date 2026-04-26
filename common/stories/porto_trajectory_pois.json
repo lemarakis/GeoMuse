@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Ribeira",
+        "lon": -8.6138,
+        "lat": 41.1408
+    },
+    {
+        "name": "Rua de São João",
+        "lon": -8.6115,
+        "lat": 41.1415
+    },
+    {
+        "name": "Cedofeita",
+        "lon": -8.621,
+        "lat": 41.154
+    },
+    {
+        "name": "Avenida da Boavista",
+        "lon": -8.64,
+        "lat": 41.159
+    },
+    {
+        "name": "Casa da Música",
+        "lon": -8.6298,
+        "lat": 41.1587
+    },
+    {
+        "name": "Circunvalação",
+        "lon": -8.59,
+        "lat": 41.18
+    },
+    {
+        "name": "Hospital de São João",
+        "lon": -8.595,
+        "lat": 41.184
+    },
+    {
+        "name": "Rua de Campo Alegre",
+        "lon": -8.638,
+        "lat": 41.152
+    },
+    {
+        "name": "Jardins do Palácio de Cristal",
+        "lon": -8.624,
+        "lat": 41.147
+    },
+    {
+        "name": "Majestic Café",
+        "lon": -8.607,
+        "lat": 41.147
+    },
+    {
+        "name": "Rua de Santa Catarina",
+        "lon": -8.6075,
+        "lat": 41.1475
+    }
+]

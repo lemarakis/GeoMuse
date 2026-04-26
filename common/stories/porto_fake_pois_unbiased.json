@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Maia",
+        "lon": -8.6167,
+        "lat": 41.2333
+    },
+    {
+        "name": "Valongo",
+        "lon": -8.4833,
+        "lat": 41.1833
+    },
+    {
+        "name": "Águas Santas",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "Maia Shopping",
+        "lon": -8.5667,
+        "lat": 41.2167
+    },
+    {
+        "name": "Fórum Maia",
+        "lon": -8.6167,
+        "lat": 41.2333
+    },
+    {
+        "name": "Centro Comercial Parque da Maia",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "Leroy Merlin Maia",
+        "lon": -8.5667,
+        "lat": 41.2167
+    },
+    {
+        "name": "Decathlon Maia",
+        "lon": -8.5667,
+        "lat": 41.2167
+    },
+    {
+        "name": "Parque Industrial da Maia",
+        "lon": -8.6,
+        "lat": 41.25
+    },
+    {
+        "name": "Tecmaia - Parque Tecnológico da Maia",
+        "lon": -8.6,
+        "lat": 41.25
+    },
+    {
+        "name": "ISMAI - Instituto Universitário da Maia",
+        "lon": -8.6167,
+        "lat": 41.2833
+    },
+    {
+        "name": "Junta de Freguesia de Águas Santas",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "A41 (Circular Regional Exterior do Porto)",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "N105 (Estrada Nacional 105)",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "Escola Secundária de Águas Santas",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "Rua Central de Águas Santas",
+        "lon": -8.55,
+        "lat": 41.2
+    },
+    {
+        "name": "Rua Doutor Carlos Pires",
+        "lon": -8.55,
+        "lat": 41.2
+    }
+]

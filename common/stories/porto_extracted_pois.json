@@ -1,0 +1,97 @@
+[
+    {
+        "name": "São Bento Train Station",
+        "lon": -8.61099,
+        "lat": 41.14557
+    },
+    {
+        "name": "Avenida dos Aliados",
+        "lon": -8.6109,
+        "lat": 41.1478
+    },
+    {
+        "name": "Clérigos Tower",
+        "lon": -8.6142,
+        "lat": 41.1456
+    },
+    {
+        "name": "Livraria Lello",
+        "lon": -8.6137,
+        "lat": 41.1459
+    },
+    {
+        "name": "Mercado do Bolhão",
+        "lon": -8.6092,
+        "lat": 41.1489
+    },
+    {
+        "name": "Rua de Santa Catarina",
+        "lon": -8.6085,
+        "lat": 41.1479
+    },
+    {
+        "name": "Café Majestic",
+        "lon": -8.6085,
+        "lat": 41.1479
+    },
+    {
+        "name": "Porto Cathedral (Sé)",
+        "lon": -8.6114,
+        "lat": 41.1435
+    },
+    {
+        "name": "Palácio da Bolsa",
+        "lon": -8.6141,
+        "lat": 41.1412
+    },
+    {
+        "name": "Ribeira District",
+        "lon": -8.6139,
+        "lat": 41.1407
+    },
+    {
+        "name": "Dom Luís I Bridge",
+        "lon": -8.6108,
+        "lat": 41.1405
+    },
+    {
+        "name": "Port Wine Cellars",
+        "lon": -8.6149,
+        "lat": 41.1378
+    },
+    {
+        "name": "Telefèrico de Gaia",
+        "lon": -8.6149,
+        "lat": 41.1378
+    },
+    {
+        "name": "Foz do Douro",
+        "lon": -8.664,
+        "lat": 41.149
+    },
+    {
+        "name": "Serralves Museum",
+        "lon": -8.656,
+        "lat": 41.159
+    },
+    {
+        "name": "Casa da Música",
+        "lon": -8.629,
+        "lat": 41.158
+    },
+    {
+        "name": "Rotunda da Boavista",
+        "lon": -8.629,
+        "lat": 41.158
+    },
+    {
+        "name": "Campanhã Station",
+        "lon": -8.59,
+        "lat": 41.149
+    },
+    {
+        "name": "Estádio do Dragão",
+        "lon": -8.583,
+        "lat": 41.16
+    }
+]

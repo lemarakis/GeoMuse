@@ -1,0 +1,287 @@
+[
+    {
+        "name": "Google",
+        "hits": 11,
+        "total": 11,
+        "results": [
+            {
+                "name": "Ribeira",
+                "llm_lon": -8.6138,
+                "llm_lat": 41.1408,
+                "api_lon": -8.610313500000002,
+                "api_lat": 41.1432682,
+                "diff_distance_meters": 401.0
+            },
+            {
+                "name": "Rua de São João",
+                "llm_lon": -8.6115,
+                "llm_lat": 41.1415,
+                "api_lon": -8.6137253,
+                "api_lat": 41.1419135,
+                "diff_distance_meters": 192.4
+            },
+            {
+                "name": "Cedofeita",
+                "llm_lon": -8.621,
+                "llm_lat": 41.154,
+                "api_lon": -8.6105703,
+                "api_lat": 41.1542293,
+                "diff_distance_meters": 875.8
+            },
+            {
+                "name": "Avenida da Boavista",
+                "llm_lon": -8.64,
+                "llm_lat": 41.159,
+                "api_lon": -8.6559228,
+                "api_lat": 41.1624702,
+                "diff_distance_meters": 1390.9
+            },
+            {
+                "name": "Casa da Música",
+                "llm_lon": -8.6298,
+                "llm_lat": 41.1587,
+                "api_lon": -8.630737,
+                "api_lat": 41.1588467,
+                "diff_distance_meters": 80.3
+            },
+            {
+                "name": "Circunvalação",
+                "llm_lon": -8.59,
+                "llm_lat": 41.18,
+                "api_lon": -8.5666079,
+                "api_lat": 41.1754563,
+                "diff_distance_meters": 2026.6
+            },
+            {
+                "name": "Hospital de São João",
+                "llm_lon": -8.595,
+                "llm_lat": 41.184,
+                "api_lon": -8.6008841,
+                "api_lat": 41.1816284,
+                "diff_distance_meters": 559.6
+            },
+            {
+                "name": "Rua de Campo Alegre",
+                "llm_lon": -8.638,
+                "llm_lat": 41.152,
+                "api_lon": -8.6459962,
+                "api_lat": 41.1538619,
+                "diff_distance_meters": 702.3
+            },
+            {
+                "name": "Jardins do Palácio de Cristal",
+                "llm_lon": -8.624,
+                "llm_lat": 41.147,
+                "api_lon": -8.6255165,
+                "api_lat": 41.1482682,
+                "diff_distance_meters": 189.9
+            },
+            {
+                "name": "Majestic Café",
+                "llm_lon": -8.607,
+                "llm_lat": 41.147,
+                "api_lon": -8.6066041,
+                "api_lat": 41.1471799,
+                "diff_distance_meters": 38.8
+            },
+            {
+                "name": "Rua de Santa Catarina",
+                "llm_lon": -8.6075,
+                "llm_lat": 41.1475,
+                "api_lon": -8.6047487,
+                "api_lat": 41.1534763,
+                "diff_distance_meters": 702.7
+            }
+        ]
+    },
+    {
+        "name": "Nominatim (OSM)",
+        "hits": 11,
+        "total": 11,
+        "results": [
+            {
+                "name": "Ribeira",
+                "llm_lon": -8.6138,
+                "llm_lat": 41.1408,
+                "api_lon": -8.612931,
+                "api_lat": 41.1407544,
+                "diff_distance_meters": 73.1
+            },
+            {
+                "name": "Rua de São João",
+                "llm_lon": -8.6115,
+                "llm_lat": 41.1415,
+                "api_lon": -8.2198432,
+                "api_lat": 41.4073408,
+                "diff_distance_meters": 44141.7
+            },
+            {
+                "name": "Cedofeita",
+                "llm_lon": -8.621,
+                "llm_lat": 41.154,
+                "api_lon": -8.6227144,
+                "api_lat": 41.156076,
+                "diff_distance_meters": 271.8
+            },
+            {
+                "name": "Avenida da Boavista",
+                "llm_lon": -8.64,
+                "llm_lat": 41.159,
+                "api_lon": -8.6504502,
+                "api_lat": 41.1615463,
+                "diff_distance_meters": 921.6
+            },
+            {
+                "name": "Casa da Música",
+                "llm_lon": -8.6298,
+                "llm_lat": 41.1587,
+                "api_lon": -8.6307748,
+                "api_lat": 41.1589025,
+                "diff_distance_meters": 84.9
+            },
+            {
+                "name": "Circunvalação",
+                "llm_lon": -8.59,
+                "llm_lat": 41.18,
+                "api_lon": -8.6464731,
+                "api_lat": 41.1831499,
+                "diff_distance_meters": 4751.2
+            },
+            {
+                "name": "Hospital de São João",
+                "llm_lon": -8.595,
+                "llm_lat": 41.184,
+                "api_lon": -8.6012019,
+                "api_lat": 41.1810575,
+                "diff_distance_meters": 614.5
+            },
+            {
+                "name": "Rua de Campo Alegre",
+                "llm_lon": -8.638,
+                "llm_lat": 41.152,
+                "api_lon": -8.641103,
+                "api_lat": 41.1531112,
+                "diff_distance_meters": 288.2
+            },
+            {
+                "name": "Jardins do Palácio de Cristal",
+                "llm_lon": -8.624,
+                "llm_lat": 41.147,
+                "api_lon": -8.6262765,
+                "api_lat": 41.1470339,
+                "diff_distance_meters": 191.1
+            },
+            {
+                "name": "Majestic Café",
+                "llm_lon": -8.607,
+                "llm_lat": 41.147,
+                "api_lon": -8.6066405,
+                "api_lat": 41.1471681,
+                "diff_distance_meters": 35.5
+            },
+            {
+                "name": "Rua de Santa Catarina",
+                "llm_lon": -8.6075,
+                "llm_lat": 41.1475,
+                "api_lon": -8.6045966,
+                "api_lat": 41.1567862,
+                "diff_distance_meters": 1059.7
+            }
+        ]
+    },
+    {
+        "name": "ArcGIS",
+        "hits": 11,
+        "total": 11,
+        "results": [
+            {
+                "name": "Ribeira",
+                "llm_lon": -8.6138,
+                "llm_lat": 41.1408,
+                "api_lon": -8.0305669,
+                "api_lat": 41.3008863,
+                "diff_distance_meters": 52037.5
+            },
+            {
+                "name": "Rua de São João",
+                "llm_lon": -8.6115,
+                "llm_lat": 41.1415,
+                "api_lon": -8.613631837601,
+                "api_lat": 41.141730217264,
+                "diff_distance_meters": 180.8
+            },
+            {
+                "name": "Cedofeita",
+                "llm_lon": -8.621,
+                "llm_lat": 41.154,
+                "api_lon": -8.62244,
+                "api_lat": 41.15835,
+                "diff_distance_meters": 498.0
+            },
+            {
+                "name": "Avenida da Boavista",
+                "llm_lon": -8.64,
+                "llm_lat": 41.159,
+                "api_lon": -8.625930498625,
+                "api_lat": 41.157330680698,
+                "diff_distance_meters": 1195.4
+            },
+            {
+                "name": "Casa da Música",
+                "llm_lon": -8.6298,
+                "llm_lat": 41.1587,
+                "api_lon": -8.6308486,
+                "api_lat": 41.1586329,
+                "diff_distance_meters": 88.3
+            },
+            {
+                "name": "Circunvalação",
+                "llm_lon": -8.59,
+                "llm_lat": 41.18,
+                "api_lon": -8.6472612,
+                "api_lat": 41.17776,
+                "diff_distance_meters": 4811.1
+            },
+            {
+                "name": "Hospital de São João",
+                "llm_lon": -8.595,
+                "llm_lat": 41.184,
+                "api_lon": -8.6022532,
+                "api_lat": 41.183264,
+                "diff_distance_meters": 614.0
+            },
+            {
+                "name": "Rua de Campo Alegre",
+                "llm_lon": -8.638,
+                "llm_lat": 41.152,
+                "api_lon": -8.641254109797,
+                "api_lat": 41.153723439442,
+                "diff_distance_meters": 333.5
+            },
+            {
+                "name": "Jardins do Palácio de Cristal",
+                "llm_lon": -8.624,
+                "llm_lat": 41.147,
+                "api_lon": -8.625439,
+                "api_lat": 41.1485283,
+                "diff_distance_meters": 208.3
+            },
+            {
+                "name": "Majestic Café",
+                "llm_lon": -8.607,
+                "llm_lat": 41.147,
+                "api_lon": -8.6066213,
+                "api_lat": 41.1471818,
+                "diff_distance_meters": 37.7
+            },
+            {
+                "name": "Rua de Santa Catarina",
+                "llm_lon": -8.6075,
+                "llm_lat": 41.1475,
+                "api_lon": -8.6046355,
+                "api_lat": 41.1534997,
+                "diff_distance_meters": 708.4
+            }
+        ]
+    }
+]

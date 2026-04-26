@@ -1,0 +1,105 @@
+{
+    "title": "The Douro Dawn Drive",
+    "story": "The pre-dawn chill of Maia clung to Lena's coat as she hailed the approaching taxi. Her heart hammered a frantic rhythm against her ribs, mirroring the ticking clock in her mind. Today was the day – the final pitch for the Douro waterfront redevelopment. \"Ribeira, please,\" she managed, her voice a little too tight. The driver, a man with kind eyes and a salt-and-pepper beard, simply nodded, a silent understanding passing between them.\n\nThe taxi pulled away smoothly, merging onto the arterial EN 14. Streetlights blurred into streaks as they sped through the still-sleeping suburbs of Leça do Balio and São Mamede de Infesta. Lena pulled out her tablet, the architectural renderings glowing faintly in the dim light. Each curve, each proposed green space, represented months of her life. She imagined the future, a vibrant tapestry woven into the historic fabric of Porto.\n\nAs the sun began to paint the eastern sky in hues of rose and gold, they passed the imposing structure of Hospital de São João, a beacon of life and urgency. The city was slowly awakening around them, the hum of traffic growing louder as they approached the Circunvalação, a major artery that encircled the city. Lena glanced up, a knot forming in her stomach. The presentation was at 9 AM, and the clock was relentlessly advancing.\n\nThe driver, sensing her anxiety, offered a small, reassuring smile in the rearview mirror. \"Don't worry, miss. We'll get you there.\" He expertly navigated the increasingly dense streets, the taxi weaving through the morning rush. They passed through the bustling area of Paranhos. Soon, the grand facades of central Porto began to appear. They turned onto Rua de Santa Catarina, a vibrant artery already showing signs of life, with shopkeepers setting up and early risers grabbing coffee. The energy was palpable, a stark contrast to the quiet suburbs they’d left behind.\n\nFinally, the taxi slowed, pulling up to the ancient cobblestones of Rua de São João. Lena looked up, her breath catching. Before her, the majestic Rio Douro shimmered under the morning sun, its waters reflecting the colorful houses of Ribeira. She was here. On time. A wave of relief washed over her, replacing the anxiety with a surge of adrenaline. \"Thank you,\" she said, her voice thick with gratitude, handing him the fare. Stepping out, she took a deep breath, the scent of the river and old stone filling her lungs. The city was ready, and so was she.",
+    "pois": [
+        {
+            "name": "Maia",
+            "llm_lon": 0.45,
+            "llm_lat": 0.03,
+            "api_lon": -8.622938699999999,
+            "api_lat": 41.2326543,
+            "diff_distance_meters": 4654015.3,
+            "distance_to_trajectory_meters": 9.7
+        },
+        {
+            "name": "EN 14",
+            "llm_lon": 0.35,
+            "llm_lat": 0.28,
+            "api_lon": -8.5779151,
+            "api_lat": 41.2960893,
+            "diff_distance_meters": 4630797.0,
+            "distance_to_trajectory_meters": 7700.5
+        },
+        {
+            "name": "Leça do Balio",
+            "llm_lon": 0.3,
+            "llm_lat": 0.25,
+            "api_lon": -8.6364073,
+            "api_lat": 41.2130361,
+            "diff_distance_meters": 4625261.4,
+            "distance_to_trajectory_meters": 758.6
+        },
+        {
+            "name": "São Mamede de Infesta",
+            "llm_lon": 0.5,
+            "llm_lat": 0.45,
+            "api_lon": -8.611394599999999,
+            "api_lat": 41.1931621,
+            "diff_distance_meters": 4604836.3,
+            "distance_to_trajectory_meters": 1.8
+        },
+        {
+            "name": "Hospital de São João",
+            "llm_lon": 0.6,
+            "llm_lat": 0.58,
+            "api_lon": -8.6008841,
+            "api_lat": 41.1816284,
+            "diff_distance_meters": 4591268.6,
+            "distance_to_trajectory_meters": 523.2
+        },
+        {
+            "name": "Paranhos",
+            "llm_lon": 0.4,
+            "llm_lat": 0.65,
+            "api_lon": -8.6084753,
+            "api_lat": 41.1753626,
+            "diff_distance_meters": 4579100.4,
+            "distance_to_trajectory_meters": 969.6
+        },
+        {
+            "name": "Circunvalação",
+            "llm_lon": 0.7,
+            "llm_lat": 0.65,
+            "api_lon": -8.5666079,
+            "api_lat": 41.1754563,
+            "diff_distance_meters": 4584338.8,
+            "distance_to_trajectory_meters": 3440.7
+        },
+        {
+            "name": "Rua de Santa Catarina",
+            "llm_lon": 0.7,
+            "llm_lat": 0.85,
+            "api_lon": -8.6047487,
+            "api_lat": 41.1534763,
+            "diff_distance_meters": 4561026.6,
+            "distance_to_trajectory_meters": 3401.2
+        },
+        {
+            "name": "Rua de São João",
+            "llm_lon": 0.6,
+            "llm_lat": 0.95,
+            "api_lon": -8.6137253,
+            "api_lat": 41.1419135,
+            "diff_distance_meters": 4547038.0,
+            "distance_to_trajectory_meters": 4606.3
+        },
+        {
+            "name": "Ribeira",
+            "llm_lon": 0.55,
+            "llm_lat": 0.97,
+            "api_lon": -8.610313500000002,
+            "api_lat": 41.1432682,
+            "diff_distance_meters": 4543915.1,
+            "distance_to_trajectory_meters": 4463.4
+        },
+        {
+            "name": "Rio Douro",
+            "llm_lon": 0.6,
+            "llm_lat": 0.99,
+            "api_lon": -8.629105299999999,
+            "api_lat": 41.1579438,
+            "diff_distance_meters": 4544733.7,
+            "distance_to_trajectory_meters": 3118.1
+        }
+    ]
+}

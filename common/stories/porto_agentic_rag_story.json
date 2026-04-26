@@ -1,0 +1,150 @@
+{
+    "title": "A Porto Culinary Quest",
+    "story": "Our journey began with a rumbling stomach. I hailed a taxi, my mind set on finding the perfect meal in Porto. My first thought was something familiar and quick, so I asked the driver to head towards a McDonald's. As we passed it, I had a sudden craving for pizza instead. A quick search on my phone led us to Domino's Pizza Amial, but the aroma of traditional Portuguese cooking from a nearby establishment caught my attention. The driver suggested Restaurante Santo António, and for a moment, I was tempted. However, my pizza craving persisted, so we continued on to Pizza Hut. Still, something felt off; I wanted a local favorite.\n\nThe driver, sensing my indecision, suggested we explore a bit further. We drove past Restaurante Favorita, which looked charming, but I was still holding out for something unique. Our journey took us further north, and we soon found ourselves near Milénio, a place I'd heard good things about. Yet, the adventure continued. Just a little further, we spotted Recanto do Sabor, and I almost asked to stop, but my destination was still elusive.\n\nWe continued our culinary quest, passing by O'Santana. I was getting hungrier by the minute! The driver then took us to an area known for its local specialties, and we soon arrived at Tentação das Bifanas 2, famous for its pork sandwiches. It was a strong contender, but I decided to push on. Next, we passed Restaurante Dona Lurdes, another traditional spot that looked inviting. My indecision was reaching its peak.\n\nThen, a sudden thought for something different: Asian cuisine. We made our way to Kaizen, a Japanese restaurant. It was a strong possibility, but then I remembered a specific recommendation. We drove a bit further, passing by PedroFilipeMoura, Unipessoal Lda, which seemed like a more upscale option.\n\nAfter much deliberation and a bit of a detour, I decided to backtrack slightly. I needed a coffee and a pastry. The driver expertly navigated us to BAGGA Leça do Balio, where I grabbed a quick espresso and a delicious treat. Feeling refreshed, I realized I still hadn't had a proper meal. My mind wandered back to a place I'd seen earlier, known for its baked goods. So, we headed towards Mundo Dellabi, where I picked up some fresh bread.\n\nFinally, with a clearer head, I decided on a more central location for dinner. We drove towards Alameda, a bustling restaurant I'd heard good reviews about. It felt like the perfect spot to end my food tour. Just as we were about to pull in, I spotted a cozy-looking place nearby. \"Wait!\" I exclaimed, \"Let's try Petiscos do Gusto instead!\" And there, my culinary adventure finally found its delightful conclusion.",
+    "pois": [
+        {
+            "name": "McDonald's",
+            "llm_lon": -8.605417,
+            "llm_lat": 41.184545,
+            "api_lon": -8.629105299999999,
+            "api_lat": 41.1579438,
+            "diff_distance_meters": 3560.8,
+            "distance_to_trajectory_meters": 37.4
+        },
+        {
+            "name": "Domino's Pizza Amial",
+            "llm_lon": -8.6123947,
+            "llm_lat": 41.1836755,
+            "api_lon": -8.6123947,
+            "api_lat": 41.1836755,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 9.3
+        },
+        {
+            "name": "Restaurante Santo António",
+            "llm_lon": -8.6131476,
+            "llm_lat": 41.1861533,
+            "api_lon": -8.2820848,
+            "api_lat": 41.2758615,
+            "diff_distance_meters": 29490.4,
+            "distance_to_trajectory_meters": 16.5
+        },
+        {
+            "name": "Pizza Hut",
+            "llm_lon": -8.6112444,
+            "llm_lat": 41.190537,
+            "api_lon": -8.629105299999999,
+            "api_lat": 41.1579438,
+            "diff_distance_meters": 3917.7,
+            "distance_to_trajectory_meters": 45.4
+        },
+        {
+            "name": "Restaurante Favorita",
+            "llm_lon": -8.610909699999999,
+            "llm_lat": 41.1952355,
+            "api_lon": -8.610909699999999,
+            "api_lat": 41.1952355,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 17.0
+        },
+        {
+            "name": "Milénio",
+            "llm_lon": -8.6142628,
+            "llm_lat": 41.2038793,
+            "api_lon": -8.6477338,
+            "api_lat": 41.15506449999999,
+            "diff_distance_meters": 6105.5,
+            "distance_to_trajectory_meters": 8.8
+        },
+        {
+            "name": "Recanto do Sabor",
+            "llm_lon": -8.6138309,
+            "llm_lat": 41.2079592,
+            "api_lon": -8.6138309,
+            "api_lat": 41.2079592,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 16.4
+        },
+        {
+            "name": "O'Santana",
+            "llm_lon": -8.6132158,
+            "llm_lat": 41.2118944,
+            "api_lon": -8.613215799999999,
+            "api_lat": 41.2118944,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 9.3
+        },
+        {
+            "name": "Tentação das Bifanas 2",
+            "llm_lon": -8.615136999999999,
+            "llm_lat": 41.2256684,
+            "api_lon": -8.615136999999999,
+            "api_lat": 41.2256684,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 56.2
+        },
+        {
+            "name": "Restaurante Dona Lurdes",
+            "llm_lon": -8.619925000000002,
+            "llm_lat": 41.22887799999999,
+            "api_lon": -8.619925,
+            "api_lat": 41.22887799999999,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 10.7
+        },
+        {
+            "name": "Kaizen",
+            "llm_lon": -8.619108299999999,
+            "llm_lat": 41.2296671,
+            "api_lon": -8.6177522,
+            "api_lat": 41.1549474,
+            "diff_distance_meters": 8299.0,
+            "distance_to_trajectory_meters": 70.9
+        },
+        {
+            "name": "PedroFilipeMoura, Unipessoal Lda",
+            "llm_lon": -8.6213468,
+            "llm_lat": 41.2333738,
+            "api_lon": -8.6213468,
+            "api_lat": 41.2333738,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 23.1
+        },
+        {
+            "name": "BAGGA Leça do Balio",
+            "llm_lon": -8.621601,
+            "llm_lat": 41.20036339999999,
+            "api_lon": -8.621601,
+            "api_lat": 41.2003634,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 11.1
+        },
+        {
+            "name": "Mundo Dellabi",
+            "llm_lon": -8.6185796,
+            "llm_lat": 41.1945428,
+            "api_lon": -8.6185796,
+            "api_lat": 41.1945428,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 31.2
+        },
+        {
+            "name": "Alameda",
+            "llm_lon": -8.6069671,
+            "llm_lat": 41.19796089999999,
+            "api_lon": -8.5836217,
+            "api_lat": 41.1647741,
+            "diff_distance_meters": 4173.8,
+            "distance_to_trajectory_meters": 22.1
+        },
+        {
+            "name": "Petiscos do Gusto",
+            "llm_lon": -8.6092583,
+            "llm_lat": 41.193186,
+            "api_lon": -8.6092583,
+            "api_lat": 41.193186,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 7.8
+        }
+    ]
+}
