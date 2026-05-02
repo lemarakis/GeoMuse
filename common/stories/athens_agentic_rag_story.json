@@ -1,0 +1,276 @@
+{
+    "title": "A Morning Ride Across Athens",
+    "story": "The early morning sun was already warm as Mark settled into the taxi, a long day of meetings ahead. He’d started his day with a quick, delicious pastry from Pita Lagonissi, enjoying the sea breeze before the real work began. The taxi pulled away, tracing the beautiful Athenian Riviera.\n\nSoon, they passed the inviting outdoor seating of Trechantiri, a place he mentally bookmarked for a future, more relaxed visit. The driver navigated smoothly, and Mark glanced at his phone, checking emails as they went by Nonnas Pizza & Burger, a reminder of his kids' favorite meal.\n\nA little further, the aroma of fresh bread wafted from ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ 1948 | Βάρκιζα, making his stomach rumble despite the earlier snack. He noticed the elegant facade of Kastelorizo just moments later, a prime spot for a seaside lunch. The journey continued past Alkyonides, a bustling cafe, and then the renowned Labros Restaurant, where he’d once enjoyed an unforgettable seafood dinner. Just a few blocks later, they passed Tokyo Joe Vouliagmeni, a popular spot he recognized from his last trip.\n\nThe taxi then turned inland, leaving the sparkling coast behind. Mark was deep in thought when the driver slowed near an everest outlet, a familiar sight even far from the city center. A few minutes later, they drove past a Domino's Pizza, another chain that felt like a little piece of home.\n\nAs they ventured further north, the city's rhythm changed. They passed Desperados - Food & Coffee, a vibrant corner spot, and then Teddy's Elixir, which looked like a cozy place for a morning brew. The taxi continued, passing the intriguing sign for Question mark - Pub Restaurant, and then the aroma of fried chicken from Peter chickens filled the air briefly.\n\nA quick stop at a Shell station for gas, and then they were back on the road, passing Aigyptios, a restaurant known for its traditional Greek dishes. The journey felt long but steady, taking them past Oulaloúm and then the welcoming facade of Απλά Εδώ Μεζεδοπωλείο Ηλιούπολη, a local taverna. Mark spotted a familiar Coffee Island sign, a beacon for caffeine lovers, before they passed another ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ FOOD HALL | Ηλιούπολη, confirming the bakery's widespread presence.\n\nFinally, they were nearing his destination. The taxi drove past Zacharias, a classic eatery, before making the final stretch. He saw the brightly lit sign of L' artigiano Pizza, a place he’d heard good things about, and then the traditional Greek restaurant Λουκουλος. The driver then pulled up near Veneti Bakery NEO Psychico, another branch of the popular bakery, and just a stone's throw away, the trendy SECOND CHILD bar.\n\nThey continued a short distance, passing a busy Gregory's and then a small, inviting Coffee Break. The final leg of the journey took them past Evripidis, a restaurant he knew his colleague frequented, and then the charming To Monogramma. His destination was just around the corner, right after they passed Η Γειτονιά - Ψητοπωλείο Νέα Ιωνία, a local grill house. The taxi finally stopped, bringing Mark's long journey across Athens to an end, ready for his day.",
+    "pois": [
+        {
+            "name": "Pita Lagonissi",
+            "llm_lon": 23.8863006,
+            "llm_lat": 37.7877555,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 25857.0,
+            "distance_to_trajectory_meters": 22.1
+        },
+        {
+            "name": "Trechantiri",
+            "llm_lon": 23.8707828,
+            "llm_lat": 37.7981208,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2786848.0,
+            "distance_to_trajectory_meters": 19.7
+        },
+        {
+            "name": "Nonnas Pizza & Burger",
+            "llm_lon": 23.843399,
+            "llm_lat": 37.81628999999999,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2784027.6,
+            "distance_to_trajectory_meters": 30.8
+        },
+        {
+            "name": "ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ 1948 | Βάρκιζα",
+            "llm_lon": 23.8032206,
+            "llm_lat": 37.82019499999999,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 19341.7,
+            "distance_to_trajectory_meters": 27.1
+        },
+        {
+            "name": "Kastelorizo",
+            "llm_lon": 23.8018504,
+            "llm_lat": 37.8171265,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2780450.9,
+            "distance_to_trajectory_meters": 16.4
+        },
+        {
+            "name": "Alkyonides",
+            "llm_lon": 23.80096349999999,
+            "llm_lat": 37.8127155,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2780490.8,
+            "distance_to_trajectory_meters": 17.0
+        },
+        {
+            "name": "Labros Restaurant",
+            "llm_lon": 23.783479,
+            "llm_lat": 37.8081971,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2779113.3,
+            "distance_to_trajectory_meters": 27.9
+        },
+        {
+            "name": "Tokyo Joe Vouliagmeni",
+            "llm_lon": 23.78269539999999,
+            "llm_lat": 37.81161319999999,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 19718.9,
+            "distance_to_trajectory_meters": 51.8
+        },
+        {
+            "name": "everest",
+            "llm_lon": 23.757527,
+            "llm_lat": 37.87434,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2775165.9,
+            "distance_to_trajectory_meters": 39.5
+        },
+        {
+            "name": "Domino's Pizza",
+            "llm_lon": 23.7542645,
+            "llm_lat": 37.8791486,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2774762.0,
+            "distance_to_trajectory_meters": 24.0
+        },
+        {
+            "name": "Desperados - Food & Coffee",
+            "llm_lon": 23.7470306,
+            "llm_lat": 37.8976733,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773663.1,
+            "distance_to_trajectory_meters": 50.1
+        },
+        {
+            "name": "Teddy's Elixir",
+            "llm_lon": 23.747054,
+            "llm_lat": 37.9018523,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773557.0,
+            "distance_to_trajectory_meters": 106.4
+        },
+        {
+            "name": "Question mark - Pub Restaurant",
+            "llm_lon": 23.7500928,
+            "llm_lat": 37.9055277,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773721.8,
+            "distance_to_trajectory_meters": 65.5
+        },
+        {
+            "name": "Peter chickens",
+            "llm_lon": 23.7533797,
+            "llm_lat": 37.90701829999999,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773964.4,
+            "distance_to_trajectory_meters": 67.9
+        },
+        {
+            "name": "Shell",
+            "llm_lon": 23.7546066,
+            "llm_lat": 37.91519350000001,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773858.2,
+            "distance_to_trajectory_meters": 16.1
+        },
+        {
+            "name": "Aigyptios",
+            "llm_lon": 23.75457759999999,
+            "llm_lat": 37.9192184,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773751.8,
+            "distance_to_trajectory_meters": 53.4
+        },
+        {
+            "name": "Oulaloúm",
+            "llm_lon": 23.75497339999999,
+            "llm_lat": 37.92325759999999,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773681.5,
+            "distance_to_trajectory_meters": 47.5
+        },
+        {
+            "name": "Απλά Εδώ Μεζεδοπωλείο Ηλιούπολη",
+            "llm_lon": 23.7551817,
+            "llm_lat": 37.9270805,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773600.7,
+            "distance_to_trajectory_meters": 53.7
+        },
+        {
+            "name": "Coffee Island",
+            "llm_lon": 23.7596251,
+            "llm_lat": 37.9289804,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773931.8,
+            "distance_to_trajectory_meters": 34.6
+        },
+        {
+            "name": "ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ FOOD HALL | Ηλιούπολη",
+            "llm_lon": 23.7589983,
+            "llm_lat": 37.936311,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773689.4,
+            "distance_to_trajectory_meters": 26.5
+        },
+        {
+            "name": "Zacharias",
+            "llm_lon": 23.7628296,
+            "llm_lat": 37.94421740000001,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 5378.6,
+            "distance_to_trajectory_meters": 66.4
+        },
+        {
+            "name": "L' artigiano Pizza",
+            "llm_lon": 23.7724244,
+            "llm_lat": 37.99585260000001,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773311.8,
+            "distance_to_trajectory_meters": 8.8
+        },
+        {
+            "name": "Λουκουλος",
+            "llm_lon": 23.7687047,
+            "llm_lat": 37.9980363,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 3945.9,
+            "distance_to_trajectory_meters": 57.5
+        },
+        {
+            "name": "Veneti Bakery NEO Psychico",
+            "llm_lon": 23.7758483,
+            "llm_lat": 38.00442,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773386.1,
+            "distance_to_trajectory_meters": 57.2
+        },
+        {
+            "name": "SECOND CHILD",
+            "llm_lon": 23.777913,
+            "llm_lat": 38.00727490000001,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2773489.9,
+            "distance_to_trajectory_meters": 32.1
+        },
+        {
+            "name": "Gregory's",
+            "llm_lon": 23.7850036,
+            "llm_lat": 38.014835,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 6110.2,
+            "distance_to_trajectory_meters": 54.2
+        },
+        {
+            "name": "Coffee Break",
+            "llm_lon": 23.787952,
+            "llm_lat": 38.0175939,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2774085.4,
+            "distance_to_trajectory_meters": 92.5
+        },
+        {
+            "name": "Evripidis",
+            "llm_lon": 23.7784278,
+            "llm_lat": 38.0306241,
+            "api_lon": 23.7275388,
+            "api_lat": 37.9838096,
+            "diff_distance_meters": 6853.9,
+            "distance_to_trajectory_meters": 25.6
+        },
+        {
+            "name": "To Monogramma",
+            "llm_lon": 23.7657008,
+            "llm_lat": 38.0369765,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2771691.5,
+            "distance_to_trajectory_meters": 109.0
+        },
+        {
+            "name": "Η Γειτονιά - Ψητοπωλείο Νέα Ιωνία",
+            "llm_lon": 23.767085,
+            "llm_lat": 38.038132,
+            "api_lon": -8.224454,
+            "api_lat": 39.39987199999999,
+            "diff_distance_meters": 2771780.5,
+            "distance_to_trajectory_meters": 19.0
+        }
+    ]
+}

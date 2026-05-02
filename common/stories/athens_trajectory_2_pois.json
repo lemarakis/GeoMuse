@@ -1,0 +1,52 @@
+[
+    {
+        "name": "My market",
+        "lon": 23.837,
+        "lat": 38.01
+    },
+    {
+        "name": "Leoforos Marathonos",
+        "lon": 23.835,
+        "lat": 38.01
+    },
+    {
+        "name": "Agia Paraskevi",
+        "lon": 23.81,
+        "lat": 38.0
+    },
+    {
+        "name": "Leoforos Mesogeion",
+        "lon": 23.805,
+        "lat": 38.0
+    },
+    {
+        "name": "Kifissias Avenue",
+        "lon": 23.79,
+        "lat": 38.035
+    },
+    {
+        "name": "Chalandri",
+        "lon": 23.79,
+        "lat": 38.02
+    },
+    {
+        "name": "Kifissia",
+        "lon": 23.805,
+        "lat": 38.07
+    },
+    {
+        "name": "Ekali",
+        "lon": 23.82,
+        "lat": 38.1
+    },
+    {
+        "name": "Varibobi",
+        "lon": 23.8,
+        "lat": 38.12
+    },
+    {
+        "name": "Gerakas",
+        "lon": 23.835,
+        "lat": 38.01
+    }
+]
