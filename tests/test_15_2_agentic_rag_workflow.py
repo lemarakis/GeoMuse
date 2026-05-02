@@ -42,6 +42,7 @@ def main():
         trajectory_csv=trajectory_csv, 
         image_path=image_path, 
         city="Athens", 
+        country="Greece",
         threshold_meters=200.0, 
         max_retries=3,
         rag_pois=all_real_pois

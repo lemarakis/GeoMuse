@@ -38,7 +38,7 @@ def _generate_story_with_feedback(image_path: str, base_prompt: str, feedback: s
     return json.loads(response.text)
 
 
-def run_agent(trajectory_csv: str, image_path: str, city: str, threshold_meters: float = 200.0, max_retries: int = 3, rag_pois: list = None) -> dict:
+def run_agent(trajectory_csv: str, image_path: str, city: str, country: str = "Portugal", threshold_meters: float = 200.0, max_retries: int = 3, rag_pois: list = None) -> dict:
     """
     Main Agent
     """
@@ -78,7 +78,7 @@ def run_agent(trajectory_csv: str, image_path: str, city: str, threshold_meters:
         
         # 2. Validation Agent (Geocode & Math)
         print("[AGENT] Validating geographic accuracy...")
-        result_dict = geocode_pois(llm_pois, city, "Portugal", api_key=google_api_key)
+        result_dict = geocode_pois(llm_pois, city, country, api_key=google_api_key)
         comparison_data = result_dict["results"]
         
         is_rag_mode = bool(rag_pois)
