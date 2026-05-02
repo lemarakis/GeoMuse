@@ -142,6 +142,14 @@ POIs (e.g., restaurant name). Use 150 words maximum.
 ]
 ```
 
+### test_05_2: Επέκταση στην Αθήνα
+Πραγματοποιήθηκε δοκιμή με νέα διαδρομή στην Αθήνα (`trajectory_2.csv`). Τα αποτελέσματα επιβεβαίωσαν την αρχική παρατήρηση: το μοντέλο αδυνατεί να ακολουθήσει τη διαδρομή οπτικά και προτείνει τυχαία σημεία.
+
+**Παραγόμενη Εικόνα (Αθήνα):**
+<div align="center"><a href="common/stories/athens_trajectory_2_map.png" target="_blank"><img src="common/stories/athens_trajectory_2_map.png" width="800"></a></div>
+
+---
+
 ---
 
 ## test_06 & test_07: Πείραμα με "Ψεύτικα" (Fake) Hotspots (Πόρτο & Αθήνα)
@@ -312,6 +320,34 @@ POIs (e.g., restaurant name). Use 150 words maximum.
 
 **Χάρτης Απόκλισης:**
 <div align="center"><a href="common/stories/porto_agentic_rag_story_map.png" target="_blank"><img src="common/stories/porto_agentic_rag_story_map.png" width="800"></a></div>
+
+### test_15_2: Επέκταση στην Αθήνα.
+Η ίδια μέθοδος εφαρμόστηκε στη διαδρομή της Αθήνας. Ο **Discovery Agent** εντόπισε 30 POIs κατά μήκος της διαδρομής και το μοντέλο πέτυχε μέση απόκλιση < 100 μέτρων.
+
+**Χάρτης Απόκλισης (Αθήνα):**
+<div align="center"><a href="common/stories/athens_agentic_rag_story_map.png" target="_blank"><img src="common/stories/athens_agentic_rag_story_map.png" width="800"></a></div>
+
+**Παραγόμενη Ιστορία (Athens RAG):**
+
+> The early morning sun was already warm as Maria stepped into the waiting taxi, eager to explore Athens. Her first stop was a quick breakfast, and the driver recommended a local favorite. They pulled up to **Pita Lagonissi**, where she grabbed a delicious savory pie to go. As they continued their journey along the scenic coastal road, she admired the view, passing by the charming **Trechantiri** restaurant, its tables already being set for lunch.
+>
+> The ride continued, and soon they were near **Nonnas Pizza & Burger**, a vibrant spot that promised a different kind of meal. Maria, however, had a craving for something more traditional. The taxi then made a slight detour, stopping briefly near **ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ 1948 | Βάρκιζα**, a bakery whose aroma filled the air. Just a stone's throw away, she spotted the elegant **Kastelorizo** restaurant, a place she mentally bookmarked for a future visit. A little further, the relaxed vibe of **Alkyonides** cafe caught her eye, perfect for an afternoon coffee.
+>
+> The journey took them further along the coast, past the renowned **Labros Restaurant**, known for its fresh seafood. A few minutes later, they drove past **Tokyo Joe Vouliagmeni**, a modern sushi spot contrasting with the traditional Greek tavernas.
+>
+> As they turned inland and headed north, the scenery shifted from coastal views to bustling city streets. Maria noticed an **everest** cafe, a familiar sight, indicating they were now deep within the urban sprawl. Soon after, the bright red sign of **Domino's Pizza** flashed by, a reminder of global comfort food.
+>
+> The taxi continued its steady climb north. They passed **Desperados - Food & Coffee**, a lively-looking spot, followed shortly by the quirky **Teddy's Elixir**. The driver pointed out **Question mark - Pub Restaurant**, a popular evening hangout. Lunchtime was approaching, and the scent of grilled meat wafted from **Peter chickens**.
+>
+> A necessary stop for the driver came next at a **Shell** gas station, where Maria stretched her legs. Refreshed, they resumed their journey, passing the inviting facade of **Aigyptios** restaurant. The city's culinary diversity was evident as they then saw **Oulaloúm**, another intriguing eatery. They soon reached the area of Ilioupoli, marked by the traditional charm of **Απλά Εδώ Μεζεδοπωλείο Ηλιούπολη**.
+>
+> Maria decided a coffee break was in order and asked the driver to pull over near a **Coffee Island**. After a quick caffeine fix, they continued, passing another familiar bakery, **ΦΟΥΡΝΟΣ ΒΕΝΕΤΗ FOOD HALL | Ηλιούπολη**. The journey was long, but Maria enjoyed observing the city life. They drove past **Zacharias**, a restaurant that looked like a local institution.
+>
+> The final leg of her journey took them even further north. They passed **L' artigiano Pizza**, a tempting stop for Italian fare, and then the traditional Greek restaurant **Λουκουλος**. The driver then navigated through Neo Psychico, where they spotted **Veneti Bakery NEO Psychico**, another branch of the popular bakery chain. Nearby, the trendy **SECOND CHILD** bar caught her attention.
+>
+> As they neared her final destination, they passed a **Gregory's** cafe, a convenient spot for a quick bite, and then **Coffee Break**, another place to grab a refreshment. The taxi was now in the northern suburbs. They drove past **Evripidis**, a restaurant with a classic feel, and then **To Monogramma**, a place that seemed to promise a unique dining experience. Finally, the taxi pulled up to **Η Γειτονιά - Ψητοπωλείο Νέα Ιωνία**, her destination, where friends were waiting for a celebratory meal. What a journey it had been!
+
+---
 
 ---
 
