@@ -1,0 +1,168 @@
+{
+    "title": "A Coastal Journey to Alexandros Palace",
+    "story": "The morning sun was already warm as I settled into the taxi in Ouranoupoli, ready for a leisurely drive along the coast. My driver, a friendly local named Yiannis, confirmed my destination. We smoothly pulled away from the curb, passing by the charming Hotel Theopisti almost immediately. Just a bit further, Yiannis pointed out the nrg incharge Charging Station, mentioning how useful it was for electric taxis like his.\n\nOur journey continued, revealing more of the beautiful Halkidiki coastline. We drove past the welcoming facade of Filoxenia, and then, just a stone's throw away, the more opulent Panorama Spa Hotel, both bustling with early risers. The road wound gently, and soon we were near Anastasia's House, a lovely guesthouse, with Yiannis noting the specific Anastasia's House - Two-Bedroom House as a popular choice for families.\n\nA little further, the scent of the sea grew stronger, and we spotted the vibrant umbrellas of Akrathos Beach Bar, already preparing for the day's visitors. Right next to it was Akrathos Watersports and Boat rental, where a few early birds were already getting their gear ready. The scenery was breathtaking.\n\nWe continued our drive, passing a charming Beachfront family house with a perfect view of the Aegean. Nearby, the BlueSea Boat Rental had a few small boats bobbing gently in the water. Soon, the landscape became grander as we approached the impressive Eagles Palace, Small Luxury Hotels of the World. Yiannis slowed slightly, pointing out the convenient DEI BLUE Charging Station tucked away nearby, a testament to the region's modern amenities.\n\nOur journey took us past the Parking Water Sports Centre of Nea Roda, where the promise of adventure hung in the air. As we entered the tranquil area of Metochi Agiou Pavlou, the pace seemed to slow, offering a glimpse into a more serene side of the peninsula. Finally, our destination came into view: the majestic Alexandros Palace. I thanked Yiannis as he pulled up, noting the nearby Sirocco Seaview Apartments - Apartment with Garden View as another excellent lodging option. As I stepped out, Yiannis mentioned he'd probably head to the VIRTA Charging Station next, ready for his next fare.",
+    "pois": [
+        {
+            "name": "Ouranoupoli",
+            "llm_lon": 23.9813901,
+            "llm_lat": 40.3258678,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 84.9
+        },
+        {
+            "name": "Hotel Theopisti",
+            "llm_lon": 23.9813441,
+            "llm_lat": 40.3255928,
+            "api_lon": 23.9813441,
+            "api_lat": 40.3255928,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 84.0
+        },
+        {
+            "name": "nrg incharge Charging Station",
+            "llm_lon": 23.9795103,
+            "llm_lat": 40.3295392,
+            "api_lon": 23.9795103,
+            "api_lat": 40.3295392,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 14.9
+        },
+        {
+            "name": "Filoxenia",
+            "llm_lon": 23.9763043,
+            "llm_lat": 40.3326739,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 870.6,
+            "distance_to_trajectory_meters": 35.6
+        },
+        {
+            "name": "Panorama Spa Hotel",
+            "llm_lon": 23.9771137,
+            "llm_lat": 40.3323249,
+            "api_lon": 23.9771137,
+            "api_lat": 40.3323249,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 43.5
+        },
+        {
+            "name": "Anastasia's House",
+            "llm_lon": 23.9691715,
+            "llm_lat": 40.3420754,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 2077.7,
+            "distance_to_trajectory_meters": 11.2
+        },
+        {
+            "name": "Anastasia's House - Two-Bedroom House",
+            "llm_lon": 23.9691696,
+            "llm_lat": 40.3420792,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 2078.2,
+            "distance_to_trajectory_meters": 11.4
+        },
+        {
+            "name": "Akrathos Beach Bar",
+            "llm_lon": 23.9653565,
+            "llm_lat": 40.344785,
+            "api_lon": 23.9653565,
+            "api_lat": 40.34478500000001,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 21.2
+        },
+        {
+            "name": "Akrathos Watersports and Boat rental",
+            "llm_lon": 23.9656211,
+            "llm_lat": 40.34405969999999,
+            "api_lon": 23.9656211,
+            "api_lat": 40.3440597,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 61.5
+        },
+        {
+            "name": "Beachfront family house",
+            "llm_lon": 23.961998,
+            "llm_lat": 40.3482819,
+            "api_lon": 23.961998,
+            "api_lat": 40.3482819,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 23.9
+        },
+        {
+            "name": "BlueSea Boat Rental",
+            "llm_lon": 23.96214509999999,
+            "llm_lat": 40.34749839999999,
+            "api_lon": 23.9621451,
+            "api_lat": 40.3474984,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 58.7
+        },
+        {
+            "name": "Eagles Palace, Small Luxury Hotels of the World",
+            "llm_lon": 23.9511905,
+            "llm_lat": 40.3541882,
+            "api_lon": 23.9511905,
+            "api_lat": 40.3541882,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 50.2
+        },
+        {
+            "name": "DEI BLUE Charging Station",
+            "llm_lon": 23.950957,
+            "llm_lat": 40.3546347,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 4109.8,
+            "distance_to_trajectory_meters": 21.0
+        },
+        {
+            "name": "Parking Water Sports Centre of Nea Roda",
+            "llm_lon": 23.9459698,
+            "llm_lat": 40.35499999999999,
+            "api_lon": 23.9459698,
+            "api_lat": 40.355,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 13.5
+        },
+        {
+            "name": "Metochi Agiou Pavlou",
+            "llm_lon": 23.9326095,
+            "llm_lat": 40.3613668,
+            "api_lon": 23.9326095,
+            "api_lat": 40.3613668,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 66.9
+        },
+        {
+            "name": "Alexandros Palace",
+            "llm_lon": 23.9295132,
+            "llm_lat": 40.3639625,
+            "api_lon": 23.9295132,
+            "api_lat": 40.3639625,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 47.9
+        },
+        {
+            "name": "Sirocco Seaview Apartments - Apartment with Garden View",
+            "llm_lon": 23.9295197,
+            "llm_lat": 40.3634987,
+            "api_lon": 23.9295197,
+            "api_lat": 40.3634987,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 42.7
+        },
+        {
+            "name": "VIRTA Charging Station",
+            "llm_lon": 23.929777,
+            "llm_lat": 40.366361,
+            "api_lon": 23.9813901,
+            "api_lat": 40.3258678,
+            "diff_distance_meters": 6280.7,
+            "distance_to_trajectory_meters": 20.0
+        }
+    ]
+}

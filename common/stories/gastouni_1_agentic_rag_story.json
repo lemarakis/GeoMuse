@@ -1,0 +1,240 @@
+{
+    "title": "From Watermelons to Sea Views: A Gastouni Journey",
+    "story": "The morning sun was already warm as I settled into the taxi, the scent of fresh produce still lingering from my stop at Dougas Elias Watermelons. My first task was to grab some essentials, so the driver made a quick detour to My market. Soon, we were driving through the bustling heart of Gastouni, a town that felt both vibrant and steeped in history. As we navigated the streets, I spotted the establishment of Andreas Lagogiannis, a familiar name from my previous visits. We then passed by the distinctive sign for ΤΟΠΟΘΕΤΗΣΕΙΣ ΠΛΑΚΙΔΙΩΝ - ΠΑΠΑΔΑΤΟΣ ΛΟΥΚΑ, a local tile installer, and a little further, the general store of ΚΑΣΣΑΒΟΣ ΒΑΣΙΛΕΙΟΣ. The landscape began to change as we left the town, transitioning through the quiet locality of Kokkala, then into Vartholomio. The driver suggested a quick coffee break, and we pulled over at CANTINA TOULA, a charming little cafe. I grabbed a snack from MILESIS NIKOS nearby, and before getting back in, I made a mental note to visit SOULIS OLIVE OIL on my next trip for some local produce. The taxi needed fuel, so we stopped at an AVIN gas station. Our journey continued, taking us through the peaceful village of Vranas, where I noticed the awnings of ΤΈΝΤΕΣ ΧΑΡΑΛΑΜΠΟΠΟΥΛΟΣ and the lively playground of the Δημοτικό Σχολείο Βρανά. We passed another Avin station, a sign of our progress. A little later, we paused briefly near Το Τρίγωνο, another cafe, before heading through the scenic locality of Lygia. I realized I'd forgotten sunscreen, so a quick stop at a Mini Market was essential. The air grew saltier as we approached the coast, passing through Glyfa, where I saw the business of Milessis, Antonios, & Co. O.E. Finally, we reached the beautiful coastal area of Paralia. I caught glimpses of CAMPING IONION BEACH and a VARTHOLOMIO storage facility, knowing my destination was close. The taxi pulled up to the elegant IONION BEACH HOTEL APARTMENTS & SPA, and I couldn't wait to check into my Ionion Beach Apartment Hotel Spa - Superior One-Bedroom Apartment with Sea View, ready to enjoy the rest of my vacation.",
+    "pois": [
+        {
+            "name": "Dougas Elias Watermelons",
+            "llm_lon": 21.2615749,
+            "llm_lat": 37.8568237,
+            "api_lon": 21.2615749,
+            "api_lat": 37.8568237,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 6.4
+        },
+        {
+            "name": "My market",
+            "llm_lon": 21.2628331,
+            "llm_lat": 37.8572231,
+            "api_lon": 21.2628331,
+            "api_lat": 37.8572231,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.4
+        },
+        {
+            "name": "Gastouni",
+            "llm_lon": 21.2543651,
+            "llm_lat": 37.8509191,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 423.7
+        },
+        {
+            "name": "Andreas Lagogiannis",
+            "llm_lon": 21.2569526,
+            "llm_lat": 37.85519189999999,
+            "api_lon": 21.2569526,
+            "api_lat": 37.8551919,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 10.0
+        },
+        {
+            "name": "ΤΟΠΟΘΕΤΗΣΕΙΣ ΠΛΑΚΙΔΙΩΝ - ΠΑΠΑΔΑΤΟΣ ΛΟΥΚΑΣ",
+            "llm_lon": 21.25295729999999,
+            "llm_lat": 37.8545569,
+            "api_lon": 21.2529573,
+            "api_lat": 37.8545569,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 49.2
+        },
+        {
+            "name": "ΚΑΣΣΑΒΟΣ ΒΑΣΙΛΕΙΟΣ",
+            "llm_lon": 21.2467064,
+            "llm_lat": 37.8557168,
+            "api_lon": 21.2467064,
+            "api_lat": 37.8557168,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 21.1
+        },
+        {
+            "name": "Kokkala",
+            "llm_lon": 21.2182694,
+            "llm_lat": 37.8630757,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 3451.2,
+            "distance_to_trajectory_meters": 10.3
+        },
+        {
+            "name": "Vartholomio",
+            "llm_lon": 21.208014,
+            "llm_lat": 37.8611008,
+            "api_lon": 21.208014,
+            "api_lat": 37.8611008,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 245.0
+        },
+        {
+            "name": "CANTINA TOULA",
+            "llm_lon": 21.2093816,
+            "llm_lat": 37.8631435,
+            "api_lon": 21.2093816,
+            "api_lat": 37.8631435,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 5.3
+        },
+        {
+            "name": "MILESIS NIKOS",
+            "llm_lon": 21.204529,
+            "llm_lat": 37.862933,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 4584.0,
+            "distance_to_trajectory_meters": 14.1
+        },
+        {
+            "name": "SOULIS OLIVE OIL",
+            "llm_lon": 21.1998975,
+            "llm_lat": 37.8632589,
+            "api_lon": 21.1998975,
+            "api_lat": 37.8632589,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 2.9
+        },
+        {
+            "name": "AVIN",
+            "llm_lon": 21.1946424,
+            "llm_lat": 37.8643282,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 5462.4,
+            "distance_to_trajectory_meters": 6.0
+        },
+        {
+            "name": "Vranas",
+            "llm_lon": 21.1821443,
+            "llm_lat": 37.86776860000001,
+            "api_lon": 21.1821443,
+            "api_lat": 37.86776860000001,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 7.5
+        },
+        {
+            "name": "ΤΈΝΤΕΣ ΧΑΡΑΛΑΜΠΟΠΟΥΛΟΣ",
+            "llm_lon": 21.18487589999999,
+            "llm_lat": 37.86739079999999,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 6382.5,
+            "distance_to_trajectory_meters": 34.2
+        },
+        {
+            "name": "Δημοτικό Σχολείο Βρανά",
+            "llm_lon": 21.1797093,
+            "llm_lat": 37.86752200000001,
+            "api_lon": 21.1797093,
+            "api_lat": 37.867522,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 42.8
+        },
+        {
+            "name": "Avin",
+            "llm_lon": 21.1603372,
+            "llm_lat": 37.86502829999999,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 8421.5,
+            "distance_to_trajectory_meters": 32.5
+        },
+        {
+            "name": "Το Τρίγωνο",
+            "llm_lon": 21.154932,
+            "llm_lat": 37.86478340000001,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 8884.6,
+            "distance_to_trajectory_meters": 29.4
+        },
+        {
+            "name": "Lygia",
+            "llm_lon": 21.1550801,
+            "llm_lat": 37.8593362,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 8787.4,
+            "distance_to_trajectory_meters": 159.4
+        },
+        {
+            "name": "Mini Market",
+            "llm_lon": 21.15369,
+            "llm_lat": 37.8587619,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 8902.6,
+            "distance_to_trajectory_meters": 9.8
+        },
+        {
+            "name": "Glyfa",
+            "llm_lon": 21.1445435,
+            "llm_lat": 37.8424021,
+            "api_lon": 21.1445435,
+            "api_lat": 37.8424021,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 8.4
+        },
+        {
+            "name": "Milessis, Antonios, & Co. O.E.",
+            "llm_lon": 21.1445435,
+            "llm_lat": 37.8424021,
+            "api_lon": 21.1445435,
+            "api_lat": 37.8424021,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 8.4
+        },
+        {
+            "name": "Paralia",
+            "llm_lon": 21.1419661,
+            "llm_lat": 37.83204730000001,
+            "api_lon": 21.2543651,
+            "api_lat": 37.8509191,
+            "diff_distance_meters": 10112.8,
+            "distance_to_trajectory_meters": 616.9
+        },
+        {
+            "name": "CAMPING IONION BEACH",
+            "llm_lon": 21.1345372,
+            "llm_lat": 37.83575369999999,
+            "api_lon": 21.1345372,
+            "api_lat": 37.8357537,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 16.6
+        },
+        {
+            "name": "VARTHOLOMIO",
+            "llm_lon": 21.1345551,
+            "llm_lat": 37.8357405,
+            "api_lon": 21.208014,
+            "api_lat": 37.8611008,
+            "diff_distance_meters": 7051.5,
+            "distance_to_trajectory_meters": 18.9
+        },
+        {
+            "name": "IONION BEACH HOTEL APARTMENTS & SPA",
+            "llm_lon": 21.1333431,
+            "llm_lat": 37.83628349999999,
+            "api_lon": 21.1333431,
+            "api_lat": 37.8362835,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 17.8
+        },
+        {
+            "name": "Ionion Beach Apartment Hotel Spa - Superior One-Bedroom Apartment with Sea View",
+            "llm_lon": 21.1329994,
+            "llm_lat": 37.8364487,
+            "api_lon": 21.1329994,
+            "api_lat": 37.8364487,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 46.9
+        }
+    ]
+}

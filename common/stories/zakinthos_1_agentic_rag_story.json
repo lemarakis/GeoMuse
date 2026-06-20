@@ -1,0 +1,492 @@
+{
+    "title": "A Journey Across Zakynthos: From Vasilikos to Agrilia",
+    "story": "The morning sun was already warm as Alex settled into the taxi, leaving the tranquil charm of Vasilikos behind. The driver, a friendly local named Yiannis, nodded a greeting, and they began their journey across the beautiful island of Zakynthos. Soon, they passed a convenient Free public parking area, a reminder of the island's bustling summer. Alex peered out the window, catching glimpses of various accommodations like the rustic Gerakas Stone House Villa and the inviting Casa Di Mare - Studio with Garden View, mentally noting places for future visits. A little further, the vibrant displays of Hanne Mi S. Ceramic Art Studio caught their eye, a potential stop for souvenirs.\n\nTheir route continued, winding past more charming stays such as Myrties stone houses, the serene Il Mio Riposo, and the family-friendly Villaggio Studios & Apartments. The air grew saltier as they approached the coast, and soon, the golden sands of Banana Beach stretched out before them, a popular spot marked by the Ktel Zante Banana Beach bus stop. Yiannis briefly slowed, allowing Alex to take in the view before they continued through the heart of Ano Vasilikos. Nightlife beckoned with a quick glance at Logos dancing Bar, and the aroma of traditional Greek cooking wafted from Taverna Nicos & Esther.\n\nMore picturesque villas dotted the landscape: Aeolos Zante Villas and the elegant Vasilikos Blue Villa. They then passed the Verano Sea view Apartments, noting both the Two-Bedroom Apartment and the Deluxe Apartment options. The scenery shifted slightly as they entered Xirokastello, where Sea View Village and Blue Horizon offered stunning vistas. Alex made a mental note of Agnadi and Al Nur Gourmet Food & Cocktail for their highly-rated cuisine, and then they passed the cozy Coral Summer Lux Cottage.\n\nSoon, the taxi entered the lively resort town of Argassi. The streets were abuzz, and Alex spotted Nima Seafood Story, a promising dining spot, and the comfortable Capriccio Studios. They drove past Dionysos, a popular cafe, and then the prominent Zakantha Beach Hotel and MIRABELLE HOTEL. A moment of quiet reverence came as they passed the beautiful Ναός Αγ.Σπυρίδων, the Church of St. Spyridon, a significant landmark.\n\nTheir journey continued into the bustling capital, Zakinthos town itself. Here, the energy was palpable, with the Cebu Club promising lively evenings. Alex saw Rosa Seaview Loft, a modern stay, and the practical ANEZ travel agency. A quick stop for fishing supplies could be made at Go Fishing. They passed Anta's Apartment and the spacious Altamira I 8 Guests with Veranda and Valley Views, perfect for larger groups. Daily necessities were covered by the sight of PIPERIS EST1979_Super Market Butcher Shop and the convenient OK! Grocery. Further along, Totos Oil and its accompanying Totos Oil Shop | Auto-Moto-Truck & Marine provided essential services.\n\nAs they neared the airport area, the presence of EuroHire Car Rental Airport Office and Zante Airport Rentals indicated their proximity to departure points. They drove through Ampelokipoi, a more residential and commercial area. Alex observed Tsirigotis Anastassios, a local store, and the familiar blue and yellow sign of Lidl. Mylonas Equipment S.A. and Glassfit \"THEODOSIS\" were signs of local businesses, as were KAOL Energy Solutions and ΒοζαΑτης motors. Finally, the taxi entered Agrilia, a quieter village. They passed Studio Stars and the welcoming Village Inn Studios & Family Apartments before pulling up to the Hera Zakynthos Hotel, Alex's destination, marking the end of a long but incredibly scenic and informative ride across Zakynthos.",
+    "pois": [
+        {
+            "name": "Vasilikos",
+            "llm_lon": 20.9811213,
+            "llm_lat": 37.7135391,
+            "api_lon": 20.9811213,
+            "api_lat": 37.7135391,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 8.0
+        },
+        {
+            "name": "Free public parking",
+            "llm_lon": 20.9858457,
+            "llm_lat": 37.7095962,
+            "api_lon": 20.9858457,
+            "api_lat": 37.7095962,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.4
+        },
+        {
+            "name": "Gerakas Stone House Villa",
+            "llm_lon": 20.9844379,
+            "llm_lat": 37.7111435,
+            "api_lon": 20.9844398,
+            "api_lat": 37.7111397,
+            "diff_distance_meters": 0.5,
+            "distance_to_trajectory_meters": 1.6
+        },
+        {
+            "name": "Casa Di Mare - Studio with Garden View",
+            "llm_lon": 20.981121,
+            "llm_lat": 37.7135544,
+            "api_lon": 20.981121,
+            "api_lat": 37.7135544,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 8.4
+        },
+        {
+            "name": "Hanne Mi S. Ceramic Art Studio",
+            "llm_lon": 20.979917,
+            "llm_lat": 37.71755400000001,
+            "api_lon": 20.979917,
+            "api_lat": 37.717554,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 37.7
+        },
+        {
+            "name": "Myrties stone houses",
+            "llm_lon": 20.9811572,
+            "llm_lat": 37.721974,
+            "api_lon": 20.9811572,
+            "api_lat": 37.721974,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 85.4
+        },
+        {
+            "name": "Il Mio Riposo",
+            "llm_lon": 20.9807263,
+            "llm_lat": 37.72232429999999,
+            "api_lon": 20.9807075,
+            "api_lat": 37.7223675,
+            "diff_distance_meters": 5.1,
+            "distance_to_trajectory_meters": 36.4
+        },
+        {
+            "name": "Villaggio Studios & Apartments",
+            "llm_lon": 20.9806518,
+            "llm_lat": 37.7252619,
+            "api_lon": 20.9806518,
+            "api_lat": 37.7252619,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 61.7
+        },
+        {
+            "name": "Banana Beach",
+            "llm_lon": 20.9789317,
+            "llm_lat": 37.7290737,
+            "api_lon": 20.9789317,
+            "api_lat": 37.7290737,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 4.3
+        },
+        {
+            "name": "Ktel Zante Banana Beach bus stop",
+            "llm_lon": 20.9790125,
+            "llm_lat": 37.7290506,
+            "api_lon": 20.9790125,
+            "api_lat": 37.7290506,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 4.5
+        },
+        {
+            "name": "Ano Vasilikos",
+            "llm_lon": 20.9681402,
+            "llm_lat": 37.7325273,
+            "api_lon": 20.9681402,
+            "api_lat": 37.7325273,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 5.2
+        },
+        {
+            "name": "Logos dancing Bar",
+            "llm_lon": 20.9752243,
+            "llm_lat": 37.72977050000001,
+            "api_lon": 20.9752243,
+            "api_lat": 37.7297705,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 37.6
+        },
+        {
+            "name": "Taverna Nicos & Esther",
+            "llm_lon": 20.9698269,
+            "llm_lat": 37.7311871,
+            "api_lon": 20.9698269,
+            "api_lat": 37.73118710000001,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.1
+        },
+        {
+            "name": "Aeolos Zante Villas",
+            "llm_lon": 20.9660312,
+            "llm_lat": 37.7335708,
+            "api_lon": 20.9660312,
+            "api_lat": 37.7335708,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 70.0
+        },
+        {
+            "name": "Vasilikos Blue Villa",
+            "llm_lon": 20.963021,
+            "llm_lat": 37.7361507,
+            "api_lon": 20.963021,
+            "api_lat": 37.7361507,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 17.6
+        },
+        {
+            "name": "Verano Sea view Apartments - Two-Bedroom Apartment",
+            "llm_lon": 20.9570103,
+            "llm_lat": 37.7371483,
+            "api_lon": 20.9570103,
+            "api_lat": 37.7371483,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 14.7
+        },
+        {
+            "name": "Verano Sea view Apartments - Deluxe Apartment",
+            "llm_lon": 20.9570103,
+            "llm_lat": 37.7371483,
+            "api_lon": 20.9570103,
+            "api_lat": 37.7371483,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 14.7
+        },
+        {
+            "name": "Xirokastello",
+            "llm_lon": 20.9476525,
+            "llm_lat": 37.7417957,
+            "api_lon": 20.9476525,
+            "api_lat": 37.7417957,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 13.1
+        },
+        {
+            "name": "Sea View Village",
+            "llm_lon": 20.9485052,
+            "llm_lat": 37.7384507,
+            "api_lon": 20.9485052,
+            "api_lat": 37.7384507,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 63.7
+        },
+        {
+            "name": "Blue Horizon",
+            "llm_lon": 20.9476421,
+            "llm_lat": 37.74224170000001,
+            "api_lon": 20.8855183,
+            "api_lat": 37.8145248,
+            "diff_distance_meters": 9711.8,
+            "distance_to_trajectory_meters": 5.2
+        },
+        {
+            "name": "Agnadi",
+            "llm_lon": 20.9469457,
+            "llm_lat": 37.7452736,
+            "api_lon": 20.9469457,
+            "api_lat": 37.7452736,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 19.7
+        },
+        {
+            "name": "Al Nur Gourmet Food & Cocktail",
+            "llm_lon": 20.9375845,
+            "llm_lat": 37.7600444,
+            "api_lon": 20.9375845,
+            "api_lat": 37.7600444,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 34.4
+        },
+        {
+            "name": "Coral Summer Lux Cottage",
+            "llm_lon": 20.93762019999999,
+            "llm_lat": 37.7592888,
+            "api_lon": 20.9376202,
+            "api_lat": 37.7592888,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 39.2
+        },
+        {
+            "name": "Argassi",
+            "llm_lon": 20.9232538,
+            "llm_lat": 37.7646421,
+            "api_lon": 20.9232538,
+            "api_lat": 37.7646421,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 5.7
+        },
+        {
+            "name": "Nima Seafood Story",
+            "llm_lon": 20.934234,
+            "llm_lat": 37.76091079999999,
+            "api_lon": 20.934234,
+            "api_lat": 37.7609108,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 10.2
+        },
+        {
+            "name": "Capriccio Studios",
+            "llm_lon": 20.9293091,
+            "llm_lat": 37.7620376,
+            "api_lon": 20.9293091,
+            "api_lat": 37.7620376,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.1
+        },
+        {
+            "name": "Dionysos",
+            "llm_lon": 20.9248337,
+            "llm_lat": 37.7639055,
+            "api_lon": 20.8998759,
+            "api_lat": 37.7870331,
+            "diff_distance_meters": 3379.9,
+            "distance_to_trajectory_meters": 4.6
+        },
+        {
+            "name": "Zakantha Beach Hotel",
+            "llm_lon": 20.9197548,
+            "llm_lat": 37.76643230000001,
+            "api_lon": 20.9197548,
+            "api_lat": 37.7664323,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 48.2
+        },
+        {
+            "name": "MIRABELLE HOTEL",
+            "llm_lon": 20.9162134,
+            "llm_lat": 37.7675405,
+            "api_lon": 20.9162134,
+            "api_lat": 37.7675405,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 14.7
+        },
+        {
+            "name": "Ναός Αγ.Σπυρίδων",
+            "llm_lon": 20.9124787,
+            "llm_lat": 37.7711805,
+            "api_lon": 20.9124787,
+            "api_lat": 37.7711805,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 17.8
+        },
+        {
+            "name": "Zakinthos",
+            "llm_lon": 20.8988271,
+            "llm_lat": 37.7881604,
+            "api_lon": 20.8988271,
+            "api_lat": 37.7881604,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 1266.9
+        },
+        {
+            "name": "Cebu Club",
+            "llm_lon": 20.9078934,
+            "llm_lat": 37.7724851,
+            "api_lon": 20.9078934,
+            "api_lat": 37.7724851,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 6.9
+        },
+        {
+            "name": "Rosa Seaview Loft",
+            "llm_lon": 20.9024086,
+            "llm_lat": 37.7733269,
+            "api_lon": 20.9024086,
+            "api_lat": 37.7733269,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 9.8
+        },
+        {
+            "name": "ANEZ",
+            "llm_lon": 20.8995924,
+            "llm_lat": 37.7759934,
+            "api_lon": 20.8995924,
+            "api_lat": 37.7759934,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.1
+        },
+        {
+            "name": "Go Fishing",
+            "llm_lon": 20.8997363,
+            "llm_lat": 37.77675079999999,
+            "api_lon": 20.8997363,
+            "api_lat": 37.77675079999999,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.7
+        },
+        {
+            "name": "Anta's Apartment",
+            "llm_lon": 20.8947169,
+            "llm_lat": 37.7760675,
+            "api_lon": 20.8947169,
+            "api_lat": 37.7760675,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 43.8
+        },
+        {
+            "name": "Altamira I 8 Guests with Veranda and Valley Views",
+            "llm_lon": 20.891468,
+            "llm_lat": 37.773304,
+            "api_lon": 20.891468,
+            "api_lat": 37.773304,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 2.0
+        },
+        {
+            "name": "PIPERIS EST1979_Super Market Butcher Shop",
+            "llm_lon": 20.8879098,
+            "llm_lat": 37.7702088,
+            "api_lon": 20.8879098,
+            "api_lat": 37.7702088,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 34.0
+        },
+        {
+            "name": "OK! Grocery",
+            "llm_lon": 20.8879142,
+            "llm_lat": 37.7702042,
+            "api_lon": 20.8879142,
+            "api_lat": 37.7702042,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 34.7
+        },
+        {
+            "name": "Totos Oil",
+            "llm_lon": 20.883647,
+            "llm_lat": 37.76839299999999,
+            "api_lon": 20.883647,
+            "api_lat": 37.768393,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 27.5
+        },
+        {
+            "name": "Totos Oil Shop | Auto-Moto-Truck & Marine",
+            "llm_lon": 20.883338,
+            "llm_lat": 37.7681596,
+            "api_lon": 20.883338,
+            "api_lat": 37.7681596,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 23.2
+        },
+        {
+            "name": "EuroHire Car Rental Airport Office",
+            "llm_lon": 20.8804632,
+            "llm_lat": 37.7649759,
+            "api_lon": 20.8804632,
+            "api_lat": 37.7649759,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 34.5
+        },
+        {
+            "name": "Zante Airport Rentals",
+            "llm_lon": 20.8803508,
+            "llm_lat": 37.7648146,
+            "api_lon": 20.8803508,
+            "api_lat": 37.7648146,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 28.4
+        },
+        {
+            "name": "Ampelokipoi",
+            "llm_lon": 20.8728543,
+            "llm_lat": 37.7582938,
+            "api_lon": 20.8728543,
+            "api_lat": 37.7582938,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 16.2
+        },
+        {
+            "name": "Tsirigotis Anastassios",
+            "llm_lon": 20.8769688,
+            "llm_lat": 37.7616018,
+            "api_lon": 20.8769688,
+            "api_lat": 37.7616018,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.4
+        },
+        {
+            "name": "Lidl",
+            "llm_lon": 20.87557,
+            "llm_lat": 37.76151000000001,
+            "api_lon": 20.8998759,
+            "api_lat": 37.7870331,
+            "diff_distance_meters": 3551.1,
+            "distance_to_trajectory_meters": 0.2
+        },
+        {
+            "name": "Mylonas Equipment S.A.",
+            "llm_lon": 20.8727684,
+            "llm_lat": 37.7577419,
+            "api_lon": 20.8727684,
+            "api_lat": 37.7577419,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 49.4
+        },
+        {
+            "name": "Glassfit \"THEODOSIS\"",
+            "llm_lon": 20.8691413,
+            "llm_lat": 37.75471239999999,
+            "api_lon": 20.8691413,
+            "api_lat": 37.7547124,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 12.3
+        },
+        {
+            "name": "KAOL Energy Solutions",
+            "llm_lon": 20.866041,
+            "llm_lat": 37.7523,
+            "api_lon": 20.866041,
+            "api_lat": 37.7523,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 20.4
+        },
+        {
+            "name": "ΒοζαΑτης motors",
+            "llm_lon": 20.8655688,
+            "llm_lat": 37.7521188,
+            "api_lon": 20.8655688,
+            "api_lat": 37.7521188,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 11.9
+        },
+        {
+            "name": "Agrilia",
+            "llm_lon": 20.8614966,
+            "llm_lat": 37.7447497,
+            "api_lon": 20.8614966,
+            "api_lat": 37.7447497,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 33.2
+        },
+        {
+            "name": "Studio Stars",
+            "llm_lon": 20.8625988,
+            "llm_lat": 37.7496945,
+            "api_lon": 20.8626404,
+            "api_lat": 37.7497292,
+            "diff_distance_meters": 5.3,
+            "distance_to_trajectory_meters": 51.4
+        },
+        {
+            "name": "Village Inn Studios & Family Apartments",
+            "llm_lon": 20.860827,
+            "llm_lat": 37.745564,
+            "api_lon": 20.860827,
+            "api_lat": 37.745564,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 99.0
+        },
+        {
+            "name": "Hera Zakynthos Hotel",
+            "llm_lon": 20.8593402,
+            "llm_lat": 37.7446547,
+            "api_lon": 20.8593402,
+            "api_lat": 37.7446547,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 36.4
+        }
+    ]
+}

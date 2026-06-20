@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Katsabas neighborhood",
+        "lon": 25.155,
+        "lat": 35.335
+    },
+    {
+        "name": "Leoforos Knossou",
+        "lon": 25.133,
+        "lat": 35.325
+    },
+    {
+        "name": "Intersection of Leoforos Knossou and Ethnikis Antistaseos Avenue",
+        "lon": 25.135,
+        "lat": 35.335
+    },
+    {
+        "name": "Ethnikis Antistaseos Avenue",
+        "lon": 25.14,
+        "lat": 35.335
+    },
+    {
+        "name": "Leoforos Ikarou",
+        "lon": 25.145,
+        "lat": 35.34
+    },
+    {
+        "name": "Andrea Papandreou Street",
+        "lon": 25.09,
+        "lat": 35.335
+    },
+    {
+        "name": "Ammoudara",
+        "lon": 25.08,
+        "lat": 35.335
+    },
+    {
+        "name": "Ammoudara Beach",
+        "lon": 25.075,
+        "lat": 35.335
+    }
+]

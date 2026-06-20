@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Karteros Beach",
+        "lon": 25.195,
+        "lat": 35.325
+    },
+    {
+        "name": "Karteros Apartments",
+        "lon": 25.196,
+        "lat": 35.326
+    },
+    {
+        "name": "Palaia Ethniki Odos",
+        "lon": 25.205,
+        "lat": 35.327
+    },
+    {
+        "name": "Kokkini Hani",
+        "lon": 25.25,
+        "lat": 35.328
+    },
+    {
+        "name": "Cretaquarium",
+        "lon": 25.28,
+        "lat": 35.33
+    },
+    {
+        "name": "Gournes",
+        "lon": 25.285,
+        "lat": 35.332
+    },
+    {
+        "name": "Gouves Bay Hotel",
+        "lon": 25.32,
+        "lat": 35.335
+    },
+    {
+        "name": "Kato Gouves",
+        "lon": 25.325,
+        "lat": 35.337
+    }
+]

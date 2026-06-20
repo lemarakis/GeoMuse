@@ -1,0 +1,267 @@
+{
+    "title": "From Nafplion's Charm to Tolo's Shores",
+    "story": "The morning sun was already warm as I settled into the taxi, leaving the picturesque old town of Nafplion behind. My driver, a friendly man named Yiannis, nodded a greeting as we pulled away. Our journey began, and soon we were passing the familiar blue and yellow sign of Lidl, a reminder that even in this ancient land, modern conveniences were never far. We continued, briefly passing the local water and sewage company, DIMOTIKI EPICHIRISI YDREFSIS APOCHETEFSIS NAFPLIOU \"D.E.Y.A.N.\", a testament to the essential services that keep a town running. Yiannis then made a quick stop at the ελίν - ΧΕΙΒΙΔΟΠΟΥΛΟΣ ΒΑΣΙΛΕΙΟΣ - ΝΕΚΤΑΡΙΟΣ (ΚΕΝΤΡΙΚΟ) gas station, topping up the tank for our trip. As we resumed our drive, I caught a glimpse of the latest trends at the Well Fashion Store and noticed the sleek Electrip Charging Station, a sign of Greece's move towards greener transport. Soon, the landscape shifted slightly as we entered the locality of Aria, the buildings becoming a little more spread out. We drove past the commercial hub of ΠΑΠΑΔΟΠΟΥΛΟΣ Π. - ΤΑΡΑΝΤΙΛΗΣ Α. Ο.Ε. - ΝΑΥΠΛΙΟ and the business premises of Tsipokas S.A., before a delightful aroma wafted through the open window – the unmistakable scent of fresh bread from Meraklidiko bakery. Further along, we passed Κυριάκου Γιώργος - Speedshop, a local car repair shop, and then a cozy looking residence, Anna's Home. The journey continued, taking us past CAFEMPORIO A.E. and the CARE AND FULL PC shopping mall, bustling with early morning activity. My thoughts drifted to other travelers as we passed the inviting Wooden Dream Nafplio - One-Bedroom Apartment and then the main Wooden Dream Nafplio complex, imagining guests enjoying their stay. We soon found ourselves in the charming locality of Lefkakia, where a quaint Mikro Cafe beckoned with promises of strong Greek coffee. Our route then led us into Asini, a place with a quiet, authentic feel. We passed MARKET ΔΑΜΙΑΝΟΣ, where locals were already doing their shopping, and the modest building of the Πολιτιστικός Σύλλογος Ασίνης, a hub for local culture. As we neared our final destination, we passed by various accommodations like My Paradise and Apartments Rania - Apartment, and a general establishment named ΜΙΧΑΗΛ ΙΩΑΝΝΗΣ. Finally, the sparkling blue waters of the Argolic Gulf came into full view, signaling our arrival in Tolo. We drove through the vibrant coastal town, passing the charming BeehiveRetreat, the welcoming Blue Sky Hotel Apartments, and the cozy Blue- Green Studio Tolo, before Yiannis pulled up smoothly in front of my own destination, the Viaros Hotel. \"Here we are,\" he smiled, and I stepped out, ready to embrace the beauty of Tolo.",
+    "pois": [
+        {
+            "name": "Nafplion",
+            "llm_lon": 22.8015531,
+            "llm_lat": 37.5673173,
+            "api_lon": 22.8015531,
+            "api_lat": 37.5673173,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 929.5
+        },
+        {
+            "name": "Lidl",
+            "llm_lon": 22.81139,
+            "llm_lat": 37.56805000000001,
+            "api_lon": 22.81139,
+            "api_lat": 37.56805000000001,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 6.0
+        },
+        {
+            "name": "DIMOTIKI EPICHIRISI YDREFSIS APOCHETEFSIS NAFPLIOU \"D.E.Y.A.N.\"",
+            "llm_lon": 22.8147544,
+            "llm_lat": 37.5706962,
+            "api_lon": 22.8147544,
+            "api_lat": 37.5706962,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 13.4
+        },
+        {
+            "name": "ελίν - ΧΕΙΒΙΔΟΠΟΥΛΟΣ ΒΑΣΙΛΕΙΟΣ - ΝΕΚΤΑΡΙΟΣ (ΚΕΝΤΡΙΚΟ)",
+            "llm_lon": 22.8192983,
+            "llm_lat": 37.57168920000001,
+            "api_lon": 22.8192983,
+            "api_lat": 37.57168920000001,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 21.9
+        },
+        {
+            "name": "Well Fashion Store",
+            "llm_lon": 22.8239492,
+            "llm_lat": 37.5717148,
+            "api_lon": 22.8239492,
+            "api_lat": 37.5717148,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 49.6
+        },
+        {
+            "name": "Electrip Charging Station",
+            "llm_lon": 22.8237015,
+            "llm_lat": 37.57158700000001,
+            "api_lon": 22.8237015,
+            "api_lat": 37.571587,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 63.2
+        },
+        {
+            "name": "Aria",
+            "llm_lon": 22.8297375,
+            "llm_lat": 37.5717817,
+            "api_lon": 22.8297375,
+            "api_lat": 37.5717817,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 110.7
+        },
+        {
+            "name": "ΠΑΠΑΔΟΠΟΥΛΟΣ Π. - ΤΑΡΑΝΤΙΛΗΣ Α. Ο.Ε. - ΝΑΥΠΛΙΟ",
+            "llm_lon": 22.82934389999999,
+            "llm_lat": 37.57278489999999,
+            "api_lon": 22.8293439,
+            "api_lat": 37.57278489999999,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 15.9
+        },
+        {
+            "name": "Tsipokas S.A.",
+            "llm_lon": 22.8336185,
+            "llm_lat": 37.5733328,
+            "api_lon": 22.8336185,
+            "api_lat": 37.5733328,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 11.0
+        },
+        {
+            "name": "Meraklidiko",
+            "llm_lon": 22.83970129999999,
+            "llm_lat": 37.5745234,
+            "api_lon": 22.8007987,
+            "api_lat": 37.5763018,
+            "diff_distance_meters": 3442.2,
+            "distance_to_trajectory_meters": 13.8
+        },
+        {
+            "name": "Κυριάκου Γιώργος - Speedshop",
+            "llm_lon": 22.8432249,
+            "llm_lat": 37.5733471,
+            "api_lon": 22.8432249,
+            "api_lat": 37.5733471,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 13.0
+        },
+        {
+            "name": "Anna's Home",
+            "llm_lon": 22.8431282,
+            "llm_lat": 37.5731888,
+            "api_lon": 22.8015531,
+            "api_lat": 37.5673173,
+            "diff_distance_meters": 3730.2,
+            "distance_to_trajectory_meters": 33.6
+        },
+        {
+            "name": "CAFEMPORIO A.E.",
+            "llm_lon": 22.8459543,
+            "llm_lat": 37.57057020000001,
+            "api_lon": 22.8459543,
+            "api_lat": 37.5705702,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 56.9
+        },
+        {
+            "name": "CARE AND FULL PC",
+            "llm_lon": 22.8473001,
+            "llm_lat": 37.5704204,
+            "api_lon": 22.8473001,
+            "api_lat": 37.5704204,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 28.4
+        },
+        {
+            "name": "Wooden Dream Nafplio - One-Bedroom Apartment",
+            "llm_lon": 22.8533401,
+            "llm_lat": 37.5638886,
+            "api_lon": 22.8533401,
+            "api_lat": 37.5638886,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 31.8
+        },
+        {
+            "name": "Wooden Dream Nafplio",
+            "llm_lon": 22.8533866,
+            "llm_lat": 37.563924,
+            "api_lon": 22.8533866,
+            "api_lat": 37.563924,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 38.0
+        },
+        {
+            "name": "Lefkakia",
+            "llm_lon": 22.861055,
+            "llm_lat": 37.560078,
+            "api_lon": 22.861055,
+            "api_lat": 37.560078,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 387.1
+        },
+        {
+            "name": "Mikro Cafe",
+            "llm_lon": 22.8562953,
+            "llm_lat": 37.5602692,
+            "api_lon": 22.8562953,
+            "api_lat": 37.5602692,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.9
+        },
+        {
+            "name": "Asini",
+            "llm_lon": 22.8646284,
+            "llm_lat": 37.5441915,
+            "api_lon": 23.013113,
+            "api_lat": 37.5097524,
+            "diff_distance_meters": 13670.3,
+            "distance_to_trajectory_meters": 12.3
+        },
+        {
+            "name": "MARKET ΔΑΜΙΑΝΟΣ",
+            "llm_lon": 22.8636438,
+            "llm_lat": 37.5453392,
+            "api_lon": 22.8636438,
+            "api_lat": 37.5453392,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 3.9
+        },
+        {
+            "name": "Πολιτιστικός Σύλλογος Ασίνης",
+            "llm_lon": 22.8662191,
+            "llm_lat": 37.5430145,
+            "api_lon": 22.8662191,
+            "api_lat": 37.5430145,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 7.9
+        },
+        {
+            "name": "My Paradise",
+            "llm_lon": 22.86888829999999,
+            "llm_lat": 37.53943410000001,
+            "api_lon": 22.8015531,
+            "api_lat": 37.5673173,
+            "diff_distance_meters": 6706.6,
+            "distance_to_trajectory_meters": 35.3
+        },
+        {
+            "name": "Apartments Rania - Apartment",
+            "llm_lon": 22.8661499,
+            "llm_lat": 37.5329285,
+            "api_lon": 22.8661499,
+            "api_lat": 37.5329285,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 7.8
+        },
+        {
+            "name": "ΜΙΧΑΗΛ ΙΩΑΝΝΗΣ",
+            "llm_lon": 22.86613,
+            "llm_lat": 37.5318257,
+            "api_lon": 22.86613,
+            "api_lat": 37.5318257,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 66.2
+        },
+        {
+            "name": "Tolo",
+            "llm_lon": 22.8597536,
+            "llm_lat": 37.5211752,
+            "api_lon": 22.8597536,
+            "api_lat": 37.5211752,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 306.7
+        },
+        {
+            "name": "BeehiveRetreat",
+            "llm_lon": 22.8646717,
+            "llm_lat": 37.52854540000001,
+            "api_lon": 22.8646717,
+            "api_lat": 37.5285454,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 5.6
+        },
+        {
+            "name": "Blue Sky Hotel Apartments",
+            "llm_lon": 22.8625007,
+            "llm_lat": 37.5261769,
+            "api_lon": 22.8625007,
+            "api_lat": 37.5261769,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 54.3
+        },
+        {
+            "name": "Blue- Green Studio Tolo",
+            "llm_lon": 22.8582802,
+            "llm_lat": 37.52406310000001,
+            "api_lon": 22.8646873,
+            "api_lat": 37.5284786,
+            "diff_distance_meters": 748.9,
+            "distance_to_trajectory_meters": 12.7
+        },
+        {
+            "name": "Viaros Hotel",
+            "llm_lon": 22.8567488,
+            "llm_lat": 37.5226186,
+            "api_lon": 22.8567488,
+            "api_lat": 37.5226186,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 33.5
+        }
+    ]
+}

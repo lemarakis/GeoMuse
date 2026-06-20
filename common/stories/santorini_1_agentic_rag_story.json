@@ -1,0 +1,258 @@
+{
+    "title": "Santorini's Coastal Drive: From Fira to Freedom",
+    "story": "The Santorini sun was already warm as Maria settled into the taxi, leaving the bustling heart of Fira behind. She had just checked out of her charming guesthouse and was on her way to pick up a rental car for the rest of her island adventure. As the taxi navigated the winding streets, she caught glimpses of familiar names from her research, like the elegant Kalisti Hotel & Suites and the quaint Villa Roussa. The driver pointed out a local business, ΚΑΦΙΕΡΗΣ, I., - Κ. ΦΟΥΣΤΕΡΗ Ο.Ε., a place known for its traditional goods, before they passed the inviting facades of Afrodete Hotel Santorini and the modern architecture of Sky Of Thira.\n\nThe ride continued, offering views of more lovely stays such as Galatia Villas. Maria made a mental note to check out the Santorini Photo Agency later, thinking about capturing the island's beauty. They drove past the quiet residential area of Mesa Katikies and the luxurious Astro Palace Hotel, a place she hoped to stay on a future trip. The driver chuckled as they passed a unique listing, Fira-cave-sleeps 13-parking-pool-pet Friendly, before slowing down near a sparkling jewelry store simply named Santorini.\n\nFurther along, they passed by Γρηγόρης Ξαγοράρης and the secluded BH324 - C - Villa Santorini, a perfect hideaway. Maria was intrigued by the concept of the Santorini Farm Experience, imagining fresh local produce. They then skirted past another beautiful stay, BH387 - B - Suite Santorini, before the landscape began to shift, becoming less dense with hotels and more focused on services.\n\nSoon, they were near the airport area. The taxi passed the impressive Zafira Residence - Villa with Private Pool and its sister property, Zafira Residence. Maria knew she was getting close when they drove by the National Car Rental - Santorini Thira Intl Apt. She spotted the practical Pro Laundry Santorini, a reminder of everyday life amidst the vacation vibe. The driver continued, passing Fytros casa and Gasin, before reaching Vita Epsilon Premium Foods and the tech-focused Smartifex. Finally, they arrived at the cluster of car rental agencies. Maria thanked the driver as he pulled up near Romani car rental Airport and Drop off at the Port, right next to the familiar blue logo of Avis. She saw Motor Inn: Rent Car, Moto, ATV and Fresh Rent Car Rental in Santorini Airport - ATV - Scooter - Buggy nearby, knowing she had plenty of options for her onward journey.",
+    "pois": [
+        {
+            "name": "Fira",
+            "llm_lon": 25.4323206,
+            "llm_lat": 36.4182677,
+            "api_lon": 25.4323206,
+            "api_lat": 36.4182677,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 3.5
+        },
+        {
+            "name": "Kalisti Hotel & Suites",
+            "llm_lon": 25.4333198,
+            "llm_lat": 36.4151416,
+            "api_lon": 25.4333198,
+            "api_lat": 36.4151416,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 4.0
+        },
+        {
+            "name": "Villa Roussa",
+            "llm_lon": 25.4333166,
+            "llm_lat": 36.4170606,
+            "api_lon": 25.4333166,
+            "api_lat": 36.4170606,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 75.2
+        },
+        {
+            "name": "ΚΑΦΙΕΡΗΣ, I., - Κ. ΦΟΥΣΤΕΡΗ Ο.Ε.",
+            "llm_lon": 25.432299,
+            "llm_lat": 36.4205499,
+            "api_lon": 25.432299,
+            "api_lat": 36.4205499,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 32.9
+        },
+        {
+            "name": "Afrodete Hotel Santorini",
+            "llm_lon": 25.4303605,
+            "llm_lat": 36.4236907,
+            "api_lon": 25.4303605,
+            "api_lat": 36.4236907,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 48.3
+        },
+        {
+            "name": "Sky Of Thira",
+            "llm_lon": 25.4308033,
+            "llm_lat": 36.426424,
+            "api_lon": 25.4308033,
+            "api_lat": 36.426424,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 14.8
+        },
+        {
+            "name": "Galatia Villas",
+            "llm_lon": 25.4347372,
+            "llm_lat": 36.4234685,
+            "api_lon": 25.4347372,
+            "api_lat": 36.4234685,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 82.8
+        },
+        {
+            "name": "Santorini Photo Agency",
+            "llm_lon": 25.4365695,
+            "llm_lat": 36.4203556,
+            "api_lon": 25.4365695,
+            "api_lat": 36.4203556,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 18.0
+        },
+        {
+            "name": "Mesa Katikies",
+            "llm_lon": 25.4394079,
+            "llm_lat": 36.418187,
+            "api_lon": 25.4394079,
+            "api_lat": 36.418187,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 140.5
+        },
+        {
+            "name": "Astro Palace Hotel",
+            "llm_lon": 25.4378029,
+            "llm_lat": 36.4169942,
+            "api_lon": 25.4378029,
+            "api_lat": 36.4169942,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 29.5
+        },
+        {
+            "name": "Fira-cave-sleeps 13-parking-pool-pet Friendly",
+            "llm_lon": 25.4431107,
+            "llm_lat": 36.4174227,
+            "api_lon": 25.4431107,
+            "api_lat": 36.4174227,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 57.3
+        },
+        {
+            "name": "Santorini",
+            "llm_lon": 25.4470233,
+            "llm_lat": 36.4180784,
+            "api_lon": 25.4615092,
+            "api_lat": 36.3931562,
+            "diff_distance_meters": 3055.6,
+            "distance_to_trajectory_meters": 68.8
+        },
+        {
+            "name": "Γρηγόρης Ξαγοράρης",
+            "llm_lon": 25.4480152,
+            "llm_lat": 36.4184837,
+            "api_lon": 25.4480152,
+            "api_lat": 36.4184837,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 74.7
+        },
+        {
+            "name": "BH324 - C - Villa Santorini",
+            "llm_lon": 25.45269019999999,
+            "llm_lat": 36.41894149999999,
+            "api_lon": 25.4526902,
+            "api_lat": 36.4189415,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 49.8
+        },
+        {
+            "name": "Santorini Farm Experience",
+            "llm_lon": 25.4528349,
+            "llm_lat": 36.4183394,
+            "api_lon": 25.4528349,
+            "api_lat": 36.4183394,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 39.1
+        },
+        {
+            "name": "BH387 - B - Suite Santorini",
+            "llm_lon": 25.4558697,
+            "llm_lat": 36.4164391,
+            "api_lon": 25.4558697,
+            "api_lat": 36.4164391,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 48.0
+        },
+        {
+            "name": "Zafira Residence - Villa with Private Pool",
+            "llm_lon": 25.4581108,
+            "llm_lat": 36.4094315,
+            "api_lon": 25.4581108,
+            "api_lat": 36.4094315,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 19.5
+        },
+        {
+            "name": "Zafira Residence",
+            "llm_lon": 25.4583111,
+            "llm_lat": 36.4095116,
+            "api_lon": 25.4583452,
+            "api_lat": 36.4095264,
+            "diff_distance_meters": 3.5,
+            "distance_to_trajectory_meters": 39.5
+        },
+        {
+            "name": "National Car Rental - Santorini Thira Intl Apt",
+            "llm_lon": 25.459256,
+            "llm_lat": 36.406034,
+            "api_lon": 25.459256,
+            "api_lat": 36.406034,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 80.3
+        },
+        {
+            "name": "Pro Laundry Santorini",
+            "llm_lon": 25.4587923,
+            "llm_lat": 36.4053213,
+            "api_lon": 25.4587923,
+            "api_lat": 36.4053213,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 19.3
+        },
+        {
+            "name": "Fytros casa",
+            "llm_lon": 25.464064,
+            "llm_lat": 36.40352360000001,
+            "api_lon": 25.464064,
+            "api_lat": 36.4035236,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 22.7
+        },
+        {
+            "name": "Gasin",
+            "llm_lon": 25.4641499,
+            "llm_lat": 36.4044662,
+            "api_lon": 25.4641499,
+            "api_lat": 36.4044662,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 77.9
+        },
+        {
+            "name": "Vita Epsilon Premium Foods",
+            "llm_lon": 25.4683424,
+            "llm_lat": 36.4047923,
+            "api_lon": 25.4683424,
+            "api_lat": 36.4047923,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 23.5
+        },
+        {
+            "name": "Smartifex",
+            "llm_lon": 25.4687405,
+            "llm_lat": 36.40530349999999,
+            "api_lon": 25.4687405,
+            "api_lat": 36.4053035,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 13.5
+        },
+        {
+            "name": "Romani car rental Airport and Drop off at the Port",
+            "llm_lon": 25.4718022,
+            "llm_lat": 36.4046953,
+            "api_lon": 25.4718022,
+            "api_lat": 36.4046953,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.6
+        },
+        {
+            "name": "Avis",
+            "llm_lon": 25.47160030000001,
+            "llm_lat": 36.4048253,
+            "api_lon": 25.472815,
+            "api_lat": 36.40326659999999,
+            "diff_distance_meters": 204.4,
+            "distance_to_trajectory_meters": 25.3
+        },
+        {
+            "name": "Motor Inn: Rent Car, Moto, ATV",
+            "llm_lon": 25.4715436,
+            "llm_lat": 36.4039324,
+            "api_lon": 25.4715436,
+            "api_lat": 36.4039324,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 28.6
+        },
+        {
+            "name": "Fresh Rent Car Rental in Santorini Airport - ATV - Scooter - Buggy",
+            "llm_lon": 25.4710142,
+            "llm_lat": 36.4036869,
+            "api_lon": 25.4710142,
+            "api_lat": 36.4036869,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.6
+        }
+    ]
+}

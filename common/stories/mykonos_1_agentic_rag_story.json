@@ -1,0 +1,132 @@
+{
+    "title": "A Mykonian Journey to Serenity",
+    "story": "The warm Aegean breeze greeted me as I stepped out, ready to explore the vibrant island of Mykonos. My taxi was waiting, and we pulled out of the bustling Parking Lot, the first specific stop on my journey. The driver, a friendly local, navigated the winding roads with ease. We passed by Omiros The Feelgood Hotel, its charming facade hinting at comfortable stays, and then the Alexandra Mykonos Port, where ferries docked, bringing more visitors to this beautiful island.\n\nAs we continued, I caught a glimpse of a secluded Mykonos Villa, imagining the peaceful retreats it offered. A bit further, we drove past MAMALIS TRAVEL (Μύκονος), a reminder of all the adventures awaiting tourists. The taxi then took us past Studio Anna Mykonos, another inviting place for travelers to rest. The landscape began to open up, revealing more stunning views. We soon approached Aura villa mykonos, its architecture blending seamlessly with the island's aesthetic.\n\nThe driver pointed out the breathtaking vistas as we neared the Unique Sea View Mykonos Villa, a truly picturesque spot. Just a stone's throw away was Villa Greystone & Sky Mykonos, another testament to the island's luxurious accommodations. Our journey continued, and we passed by a place simply marked as Μαθιός Adel Morcos, a local landmark or residence.\n\nAs we ventured further, the island's diverse offerings became apparent. We drove past Webee Web Agency - Κατασκευή Ιστοσελίδων Μύκονος, a modern touch amidst the traditional charm, and then Mama's Laundry Mykonos - Laundry Delivery Mykonos, a practical service for island life. Finally, my destination came into view: Megusta Mykonos. The taxi pulled up, and I stepped out, ready to begin my tranquil Mykonian escape, having seen so much of the island's character along the way.",
+    "pois": [
+        {
+            "name": "Mykonos",
+            "llm_lon": 25.3262531,
+            "llm_lat": 37.444658,
+            "api_lon": 25.3667218,
+            "api_lat": 37.4414601,
+            "diff_distance_meters": 3598.7,
+            "distance_to_trajectory_meters": 905.2
+        },
+        {
+            "name": "Parking Lot",
+            "llm_lon": 25.328633,
+            "llm_lat": 37.4519704,
+            "api_lon": 25.3667218,
+            "api_lat": 37.4414601,
+            "diff_distance_meters": 3566.6,
+            "distance_to_trajectory_meters": 11.1
+        },
+        {
+            "name": "Omiros The Feelgood Hotel",
+            "llm_lon": 25.329494,
+            "llm_lat": 37.4540967,
+            "api_lon": 25.329494,
+            "api_lat": 37.4540967,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 60.6
+        },
+        {
+            "name": "Alexandra Mykonos Port",
+            "llm_lon": 25.3296773,
+            "llm_lat": 37.4596598,
+            "api_lon": 25.3296773,
+            "api_lat": 37.4596598,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 42.6
+        },
+        {
+            "name": "Mykonos Villa",
+            "llm_lon": 25.3317712,
+            "llm_lat": 37.4547201,
+            "api_lon": 25.3317712,
+            "api_lat": 37.4547201,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 47.9
+        },
+        {
+            "name": "MAMALIS TRAVEL (Μύκονος)",
+            "llm_lon": 25.3330339,
+            "llm_lat": 37.4531925,
+            "api_lon": 25.3330339,
+            "api_lat": 37.4531925,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 29.1
+        },
+        {
+            "name": "Studio Anna Mykonos",
+            "llm_lon": 25.3376079,
+            "llm_lat": 37.45625659999999,
+            "api_lon": 25.3376079,
+            "api_lat": 37.4562566,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 28.1
+        },
+        {
+            "name": "Aura villa mykonos",
+            "llm_lon": 25.3398528,
+            "llm_lat": 37.457977,
+            "api_lon": 25.3253129,
+            "api_lat": 37.4827856,
+            "diff_distance_meters": 3039.0,
+            "distance_to_trajectory_meters": 25.5
+        },
+        {
+            "name": "Unique Sea View Mykonos Villa",
+            "llm_lon": 25.3392772,
+            "llm_lat": 37.4620285,
+            "api_lon": 25.3392772,
+            "api_lat": 37.4620285,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 23.6
+        },
+        {
+            "name": "Villa Greystone & Sky Mykonos",
+            "llm_lon": 25.3388176,
+            "llm_lat": 37.4620094,
+            "api_lon": 25.3388176,
+            "api_lat": 37.4620094,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 21.7
+        },
+        {
+            "name": "Μαθιός Adel Morcos",
+            "llm_lon": 25.3455254,
+            "llm_lat": 37.4636824,
+            "api_lon": 25.3455254,
+            "api_lat": 37.4636824,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 44.5
+        },
+        {
+            "name": "Webee Web Agency - Κατασκευή Ιστοσελίδων Μύκονος",
+            "llm_lon": 25.3465409,
+            "llm_lat": 37.4671574,
+            "api_lon": 25.3465409,
+            "api_lat": 37.4671574,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 7.1
+        },
+        {
+            "name": "Mama's Laundry Mykonos - Laundry Delivery Mykonos",
+            "llm_lon": 25.3464145,
+            "llm_lat": 37.467147,
+            "api_lon": 25.3464145,
+            "api_lat": 37.467147,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 0.9
+        },
+        {
+            "name": "Megusta Mykonos",
+            "llm_lon": 25.3429847,
+            "llm_lat": 37.4742205,
+            "api_lon": 25.3429847,
+            "api_lat": 37.4742205,
+            "diff_distance_meters": 0.0,
+            "distance_to_trajectory_meters": 3.4
+        }
+    ]
+}

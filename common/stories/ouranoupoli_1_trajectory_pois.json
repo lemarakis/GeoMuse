@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Odyssea Eliti",
+        "lon": 22.99,
+        "lat": 40.548
+    },
+    {
+        "name": "Thermi",
+        "lon": 22.989,
+        "lat": 40.539
+    },
+    {
+        "name": "Leoforos Georgikis Scholis",
+        "lon": 22.972,
+        "lat": 40.569
+    },
+    {
+        "name": "American Farm School",
+        "lon": 22.972,
+        "lat": 40.57
+    },
+    {
+        "name": "Ethnikis Antistaseos",
+        "lon": 22.95,
+        "lat": 40.58
+    },
+    {
+        "name": "Kalamaria",
+        "lon": 22.95,
+        "lat": 40.585
+    },
+    {
+        "name": "Plateia Skra",
+        "lon": 22.95,
+        "lat": 40.587
+    }
+]

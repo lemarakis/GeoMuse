@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Karteros Beach",
+        "lon": 25.19,
+        "lat": 35.327
+    },
+    {
+        "name": "Leoforos Ikarou",
+        "lon": 25.17,
+        "lat": 35.337
+    },
+    {
+        "name": "Heraklion Airport",
+        "lon": 25.18,
+        "lat": 35.339
+    },
+    {
+        "name": "Nea Alikarnassos",
+        "lon": 25.165,
+        "lat": 35.335
+    },
+    {
+        "name": "Leoforos 62 Martyron",
+        "lon": 25.125,
+        "lat": 35.335
+    },
+    {
+        "name": "Leoforos Andrea Papandreou",
+        "lon": 25.095,
+        "lat": 35.338
+    },
+    {
+        "name": "Ammoudara",
+        "lon": 25.075,
+        "lat": 35.338
+    },
+    {
+        "name": "Candia Maris Resort",
+        "lon": 25.07,
+        "lat": 35.338
+    }
+]
