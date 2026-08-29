@@ -281,6 +281,37 @@ POIs (e.g., restaurant name). Use 150 words maximum.
 
 ---
 
+## test_13: Grounded Trajectory Story
+
+Πριν την πλήρη γενίκευση του Agentic RAG Workflow (βλ. `test_15`), δοκιμάστηκε μια πρώτη υλοποίηση grounding πάνω στη διαδρομή του Πόρτο. Ο **Discovery Agent** ανίχνευσε πραγματικά POIs κατά μήκος της διαδρομής (μέσω Google Places Nearby Search) και τα έδωσε στο μοντέλο ως λίστα με ακριβείς συντεταγμένες, ώστε η αφήγηση να βασιστεί σε αυτά αντί να τα "μαντέψει". Στη συνέχεια εφαρμόστηκε η ίδια διαδικασία geocoding και υπολογισμού απόκλισης του `test_12` πάνω στα POIs που ανέφερε το μοντέλο.
+
+**Αποτέλεσμα:**
+Από τα 16 POIs που ενσωματώθηκαν στην αφήγηση, τα 10 είχαν απόκλιση κάτω από 60 μέτρα από την πραγματική διαδρομή, με μέση απόκλιση περίπου 2.825 μέτρα (η οποία επηρεάζεται από λίγα ακραία σημεία).
+
+Τα υπόλοιπα 6 σημεία (**McDonald's**, **Pizza Hut**, **Restaurante Santo Antonio**, **Milenio**, **Kaizen**, **Alameda**) εμφανίζουν απόκλιση 2,9–28,5 χλμ όχι επειδή το μοντέλο τα εφηύρε, αλλά επειδή είναι ονόματα αλυσίδων ή κοινά τοπωνύμια: όταν ξαναπερνούν από geocoding μόνο με το όνομα, το Google API τα ταιριάζει με διαφορετικό υποκατάστημα από αυτό που είχε αρχικά εντοπίσει ο Discovery Agent με βάση τις συντεταγμένες (π.χ. **McDonald's** και **Pizza Hut** καταλήγουν στο ίδιο ακριβώς σημείο, 3.118 μ.). Η μεγάλη απόκλιση σε αυτά τα σημεία είναι σφάλμα της μεθόδου επαλήθευσης, όχι hallucination του μοντέλου.
+
+Το πείραμα αυτό αποτέλεσε τη βάση πάνω στην οποία χτίστηκε αργότερα το πλήρες Agentic RAG Workflow του `test_15`.
+
+**Χάρτης Απόκλισης (Grounded Trajectory):**
+<div align="center"><a href="common/stories/porto_grounded_trajectory_deviation_map.png" target="_blank"><img src="common/stories/porto_grounded_trajectory_deviation_map.png" width="800"></a></div>
+
+**Δείγμα JSON Αποτελεσμάτων (test_13):**
+```json
+[
+    {
+        "name": "Domino's Pizza Amial",
+        "llm_lon": -8.6123947,
+        "llm_lat": 41.1836755,
+        "api_lon": -8.6123947,
+        "api_lat": 41.1836755,
+        "diff_distance_meters": 0.0,
+        "distance_to_trajectory_meters": 9.3
+    }
+]
+```
+
+---
+
 ## test_14: Agentic Workflow (Self-Correction)
 
 
@@ -314,6 +345,8 @@ POIs (e.g., restaurant name). Use 150 words maximum.
 ## test_15: Agentic RAG Workflow (Spatial Grounding)
 
 Αποτελεί την πιο επιτυχημένη προσέγγιση. Χρησιμοποιείται ο **Discovery Agent** ο οποίος, πριν την κλήση του LLM, αναζητά μέσω του **Google Places API** πραγματικά POIs που βρίσκονται αυστηρά πάνω στη διαδρομή. Αυτά τα σημεία παρέχονται στο prompt ως grounding.
+
+Το grounding αυτό συνδυάζεται με τον ίδιο **Control Agent** του `test_14`: αν η μέση απόκλιση ξεπερνά το όριο των 200 μέτρων, το μοντέλο παίρνει ανατροφοδότηση και ξαναγράφει την ιστορία, έως 3 φορές, κρατώντας τελικά την καλύτερη προσπάθεια.
 
 **Αποτέλεσμα:**
 Η απόκλιση εκμηδενίστηκε (κάτω από 100 μέτρα). Το μοντέλο ενσωμάτωσε τα πραγματικά POIs στην αφήγηση, παράγοντας μια ιστορία που είναι γεωγραφικά ακριβής και ταυτίζεται απόλυτα με την εικόνα της διαδρομής.
@@ -442,6 +475,8 @@ POIs (e.g., restaurant name). Use 150 words maximum.
 > Further along, they passed by **Γρηγόρης Ξαγοράρης** and the secluded **BH324 - C - Villa Santorini**, a perfect hideaway. Maria was intrigued by the concept of the **Santorini Farm Experience**, imagining fresh local produce. They then skirted past another beautiful stay, **BH387 - B - Suite Santorini**, before the landscape began to shift, becoming less dense with hotels and more focused on services.
 >
 > Soon, they were near the airport area. The taxi passed the impressive **Zafira Residence - Villa with Private Pool** and its sister property, **Zafira Residence**. Maria knew she was getting close when they drove by the **National Car Rental - Santorini Thira Intl Apt**. She spotted the practical **Pro Laundry Santorini**, a reminder of everyday life amidst the vacation vibe. The driver continued, passing **Fytros casa** and **Gasin**, before reaching **Vita Epsilon Premium Foods** and the tech-focused **Smartifex**. Finally, they arrived at the cluster of car rental agencies. Maria thanked the driver as he pulled up near **Romani car rental Airport and Drop off at the Port**, right next to the familiar blue logo of **Avis**. She saw **Motor Inn: Rent Car, Moto, ATV** and **Fresh Rent Car Rental in Santorini Airport - ATV - Scooter - Buggy** nearby, knowing she had plenty of options for her onward journey.
+
+**Σημείωση για τις εξαιρέσεις:** Σε αρκετές τοποθεσίες (Μύκονος, Ναύπλιο, Ζάκυνθος, Γαστούνη) το πιο απομακρυσμένο σημείο κάθε φορά δεν είναι λάθος του μοντέλου, αλλά του ίδιου του Google Places: το API επέστρεψε ως «πλησιέστερο POI» ολόκληρο το όνομα της πόλης ή του νησιού (π.χ. «Mykonos», «Nafplion», «Zakinthos»), αντί ενός συγκεκριμένου κτιρίου. Οι συντεταγμένες ενός τέτοιου σημείου αντιστοιχούν στο κέντρο μιας μεγάλης περιοχής, όχι σε σημείο πάνω στη διαδρομή, γι' αυτό εμφανίζεται μεγάλη απόκλιση σε 1-2 σημεία ανά τοποθεσία, χωρίς αυτό να επηρεάζει σημαντικά τον συνολικό μέσο όρο.
 
 ### test_16: Ανάλυση Τηλεμετρίας & OBD Διαδρομής
 Σε αυτό το πείραμα αναλύθηκε μια διαδρομή οχήματος στην Αθήνα με δεδομένα OBD (On-board Diagnostics) και GPS. Από τον **Story Generator** παρήχθη ένα επίσημο τεχνικό report στα ελληνικά, ενσωματώνοντας την ανάλυση των ελάχιστων και μέγιστων τιμών των αισθητήρων του οχήματος, τη μέγιστη καταπόνηση του κινητήρα (ταχύτητα, στροφές RPM, φορτίο) και τις παραμέτρους τηλεμετρίας (τάση μπαταρίας, θερμοκρασία ψυκτικού, σήμα GPS). Η ανάκτηση των διευθύνσεων για τα συμβάντα και τις στάσεις της διαδρομής πραγματοποιήθηκε μέσω του **Discovery Agent** με χρήση του **Google Geocoding API**.
