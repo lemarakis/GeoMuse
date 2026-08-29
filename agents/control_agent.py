@@ -50,7 +50,10 @@ def run_agent(trajectory_csv: str, image_path: str, city: str, country: str = "P
     
     if rag_pois:
         print("[CONTROL AGENT] Operating in RAG Mode (Spatial Grounding Enabled).")
-        base_prompt = prompts.GROUNDED_TRAJECTORY_STORY_PROMPT + "\n\n" + json.dumps(rag_pois, indent=2)
+        poi_list_str = "\n".join(
+            f"- {p['name']} ({', '.join(p['types'])}), lon: {p['lon']}, lat: {p['lat']}" for p in rag_pois
+        )
+        base_prompt = prompts.GROUNDED_TRAJECTORY_STORY_PROMPT.format(poi_list_str=poi_list_str)
     else:
         print("[CONTROL AGENT] Operating in Default Mode (No Grounding).")
         base_prompt = prompts.AGENTIC_STORY_PROMPT
